@@ -1,0 +1,3536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sunravbook>
+  <info>
+    <guid>0000FC1993D84625BEF98C5A10563FA4</guid>
+    <engine_version>5,07</engine_version>
+    <title>Книга 2</title>
+    <theme/>
+    <mediastorage>0000FC1993D84A7598782F45B03EC04B</mediastorage>
+    <charset>UTF-8</charset>
+    <description></description>
+    <html_header></html_header>
+    <html_footer></html_footer>
+    <header>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</header>
+    <footer>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</footer>
+    <contents>[{"id":"184355830","parent":"#","text":"Титульный лист", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=184355830"},type:"file"},{"id":"1346101826","parent":"#","text":"Содержание", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1346101826"},type:"file"},{"id":"468580175","parent":"#","text":"Перечень условных обозначений", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=468580175"},type:"file"},{"id":"1973867149","parent":"#","text":"Введение", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1973867149"},type:"file"},{"id":"1430475973","parent":"#","text":"1.Задачи, классификация и структура", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1430475973"},type:"folder"},{"id":"1010500064","parent":"1430475973","text":"Задачи радиотехнического контроля и защиты информации", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1010500064"},type:"folder"},{"id":"802658555","parent":"1430475973","text":"Классификация программно-аппаратных средств радио- радиотехнического контроля", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=802658555"},type:"folder"},{"id":"1801818782","parent":"1430475973","text":"Структура программно-аппаратных  средств радио - радиотехнического контроля ", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1801818782"},type:"file"},{"id":"93182235","parent":"1430475973","text":"Общие принципы построения цифровых радиоприемных  устройств", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=93182235"},type:"file"},{"id":"1106767083","parent":"802658555","text":"", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1106767083"},type:"file"},{"id":"1687382921","parent":"1430475973","text":"Способы измерения параметров сигналов РЭС", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1687382921"},type:"file"},{"id":"824642917","parent":"1010500064","text":"Глава 7", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=824642917"},type:"file"}]  <width>250</width>
+      <width_measure></width_measure>
+      <responsive>T</responsive>
+      <show_search>T</show_search>
+      <show_dots>T</show_dots>
+      <show_icons>T</show_icons>
+      <show_stripes>F</show_stripes>
+      <show_toc>T</show_toc>
+    </contents>
+    <css>h1  
+{font-size: 40px; 
+padding-left: 10px; 
+border-left: 6px solid CornflowerBlue;}  
+h2 
+{font-size: 30px; 
+padding-left: 6px; 
+border-left: 4px solid CornflowerBlue;}  
+h3 {font-size: 24px;} 
+h4 {font-size: 20px;} 
+h5 {font-size: 16px;} 
+h6 {font-size: 14px;} 
+body {font-family: "Tahoma", sanserif; font-size: 16px; margin-left:10px;  margin-right: 10px; background-color: white;} </css>
+  </info>
+  <chapters>
+    <count>12</count>
+    <maxlevel>0</maxlevel>
+    <maxchilds>0</maxchilds>
+    <chapter_0 number="0" guid="0000FC199415455FBC12405374E529A7">
+      <guid>0000FC199415455FBC12405374E529A7</guid>
+      <title>Титульный лист</title>
+      <index>184355830</index>
+      <level>0</level>
+      <number>0</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <p class=rvps3><img width=1280 height=193 alt="" style="vertical-align: text-bottom; padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00001.png"></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><a name="_Toc444183973"></a><span class=rvts2>Е.В. Кравцов, А.В. Фёдоров, Р.Б. Архипов&nbsp;</span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts3><br></span></p>
+<p class=rvps3><a name="_Toc444183974"></a><span class=rvts3>КОМПЛЕКСЫ И СРЕДСТВА ЗАЩИТЫ ИНФОРМАЦИИ </span><a name="_Toc444183975"></a><span class=rvts3>И КОНТРОЛЯ</span></p>
+<p class=rvps3><span class=rvts3><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><a name="_Toc444183976"></a><span class=rvts2>Учебное пособие</span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps3><a name="_Toc444183977"></a><span class=rvts2>Воронеж</span></p>
+<p class=rvps3><a name="_Toc444183978"></a><span class=rvts2>2020</span></p>
+<p class=rvps3 style="page-break-before: always;"><span class=rvts2><br></span></p>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps2><span class=rvts2><br></span></p>
+<p class=rvps2><a name="_Toc444183981"></a><span class=rvts3>Аннотация</span><span class=rvts2>: В учебном пособии рассматриваются вопросы о назначении, составе и особенностях построения средств и комплексов радио и радиотехнического контроля. Особое внимание уделяется алгоритму применения данных средств при решении задач радио и радиотехнического контроля.</span></p>
+<p class=rvps2><a name="_Toc444183982"></a><span class=rvts2>Пособие рекомендовано к изучению дисциплины «Комплексы и средства защиты информации и контроля».</span></p>
+<p class=rvps2><span class=rvts2><br></span></p>
+<p class=rvps2><a name="_Toc444183984"></a><span class=rvts2>Рецензенты: профессор д.т.н., профессор Лихачев В.П.; </span><a name="_Toc444183985"></a><span class=rvts2>профессор д.т.н., доцент Панычев С.Н.</span></p>
+<p class=rvps2><span class=rvts2><br></span></p>
+<p class=rvps2><span class=rvts3><br></span></p>
+<p class=rvps2><span class=rvts3>Регистрационный номер 3655/1</span></p>
+<p class=rvps2><span class=rvts2><br></span></p>
+<p class=rvps2><span class=rvts2><br></span></p>
+<p class=rvps2><span class=rvts2><br></span></p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps2
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps3
+{
+ text-align: center;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_0>
+    <chapter_1 number="1" guid="0000FC95A1464627B35F89DFE5C4E80C">
+      <guid>0000FC95A1464627B35F89DFE5C4E80C</guid>
+      <title>Содержание</title>
+      <index>1346101826</index>
+      <level>0</level>
+      <number>1</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <p><span class=rvts4>Содержание</span></p>
+<p><span class=rvts5><br></span></p>
+<p><span class=rvts2><br></span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: inside; list-style-type: disc;">
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">Обложка полная</a></li>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">Титульный лист и аннотация</a></li>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">Содержание</a></li>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">Перечень условных обозначений</a></li>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">Введение</a></li>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">1.Задачи, классификация и структура</a></li>
+ <ul style="text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: inside; list-style-type: disc;">
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">1.1. Задачи радиотехнического контроля и защиты информации</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">1.2. Классификация программно-аппаратных средств радио-радиотехнического контроля&nbsp;</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">1.3. Структура программно-аппаратных средств радио-радиотехнического контроля</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">1.4. Общие принципы построения цифровых радиоприемных устройств</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">1.5. Способы измерения параметров сигналов РЭС</a></li>
+ </ul>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">2. Мобильный автоматизированный комплекс радио-, радиотехнического и специального контроля эффективности защиты информации общевойскового назначения МКТК-1 "ПЛАВСК"</a></li>
+ <ul style="text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: inside; list-style-type: disc;">
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">2.1. Назначение, состав и технические характеристики МКТК-1 "ПЛАВСК"</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">2.2. Режимы работы АРМ-РК (УПО-10)</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">2.3. Принцип действия АРМ-РК</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">2.4. Структурная схема АРМ-РК</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">2.5. Специальное программное обеспечение АРМ-РК</a></li>
+ </ul>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">3. Малогабаритный возимый многофункциональный комплекс радиоконтроля, пеленгования и подавления РП-377 "ЛОРАНДИТ"</a></li>
+ <ul style="text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: inside; list-style-type: disc;">
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">3.1. Назначение, состав и технические характеристики РП-377 "ЛОРАНДИТ"</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">3.2. Устройство и работа комплекса РП-377ЛА</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">3.3. Работа составных частей комплекса Р-377ЛА</a></li>
+ </ul>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">4. Мобильный автоматизированный комплекса радио-, радиотехнического и специального контроля эффективности защиты информации общевойскового назначения МКТК-1А "ДЗЮДОИСТ"</a></li>
+ <ul style="text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: inside; list-style-type: disc;">
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">4.1. Назначение, состав и технические характеристики МКТК-1А "Дзюдоист"</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">4.2. Технические характеристики УПО-14</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">4.3. Устройство и принцип работы УПО-14</a></li>
+ </ul>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">5. Автоматизированный радиопеленгаторный комплекс "СВЕТ"</a></li>
+ <ul style="text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: inside; list-style-type: disc;">
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">5.1. Стационарный автоматизированный радиопеленгаторный комплекс "СВЕТ-МС"</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">5.2. Переносной автоматизированный Радиопеленгаторный комплекс "СВЕТ-РП"</a></li>
+ </ul>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">6. Программно-аппаратный комплекс поиска обнаружения пеленгования ИРИ и постановка помех "МУРЕНА-НМ"</a></li>
+ <ul style="text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: inside; list-style-type: disc;">
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">6.1. Назначение, состав и технические характеристики программно-аппаратного комплекса "Мурена-НМ"</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">6.2. Обнаружение источников радиоизлучения в диапазоне частот с 0.1 до 2600 МГц</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">6.3. Функция контроля и измерения параметров радиоизлучения</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">6.4. Функция ведения архива данных обнаруженных частот,спектров, координат ИРИ</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">6.5. Пеленгование источников радиоизлучения в диапазоне частот от 30 до 1000 МГц</a></li>
+  <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">6.6. Функция расчета координат ИРИ с использованием метода определения местоположения по напряженности поля</a></li>
+ </ul>
+ <li style="text-indent: 0px"><a class=rvts6 href="?module=view_books&amp;action=show&amp;bid=">Тест</a></li>
+</ul>
+<p><span class=rvts3><br></span></p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 16pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts4
+{
+ font-size: 18pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts5
+{
+ font-size: 18pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: underline;
+}
+a.rvts6, span.rvts6
+{
+ font-size: 16pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+ border-bottom: solid 1px;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+/* ========== Lists ========== */
+.list0 {text-indent: 0px; padding: 0; margin: 0 0 0 0px; list-style-position: inside; list-style-type: disc;}
+</css>
+    </chapter_1>
+    <chapter_2 number="2" guid="0000FC9AB409412DBD58B0246B90CA5F">
+      <guid>0000FC9AB409412DBD58B0246B90CA5F</guid>
+      <title>Перечень условных обозначений</title>
+      <index>468580175</index>
+      <level>0</level>
+      <number>2</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <p><a name="_Toc444183987"></a><span class=rvts5>ПЕРЕЧЕНЬ &nbsp;УСЛОВНЫХ &nbsp;ОБОЗНАЧЕНИЙ</span></p>
+<p><span class=rvts8><br></span></p>
+<div class=rvps2>
+<table border=0 cellpadding=4 cellspacing=0 style="border-width: 0px; border-spacing: 0px;">
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>АС</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;анализатор спектра</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>АСУ</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;</span><span class=rvts3>автоматизированная система управления</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>АФУ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;антенно-фидерное устройство</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>АПЧ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;автоматическая подстройка частоты</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>АЦП</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;аналого-цифровой преобразователь</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>БДУ</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;блок дистанционного управления</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ВЧ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;высокая частота</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>ГПЧ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;гетеродинный переносчик частоты</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>ГШ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;генератор шума</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ДНА&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;диаграмма направленности антенны</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>ДГУ</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;дизель-генераторная установка</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ЗИП&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;запасные части, инструмент и принадлежности</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>ИРИ</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;источник радио излучения</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>КТК</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;комплексный технический контроль</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ОВУ</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;отопительно-вентиляционная установка</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>ПЧ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;промежуточная частота</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>ПК</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;персональный компьютер</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ППМ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;плотность потока мощности</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ПЭМИ</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;побочные электромагнитные излучения и наводки</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ПЭВМ</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;персональная электронно-вычислительная машина</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>РЭС&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;радиоэлектронное средство</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>СВЧ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;сверхвысокая частота</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>СЭУПИ</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;специальное электронное устройство перехвата информации</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ТСР</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;техническое средство разведки</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ТСПИ</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;технические средства передачи информации</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>УНЧ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;усилитель низкой частоты</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>УПЧ&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;усилитель промежуточной частоты</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts7>ЦОС</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts6>– &nbsp;цифровая обработка сигнала</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ЭМП&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;электромагнитное поле</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ЭМС&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;электромагнитная совместимость</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=98 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts4>ЭМО&nbsp;</span></p>
+  </td>
+  <td width=558 valign=top style="padding: 0px 7px;">
+   <p><span class=rvts3>– &nbsp;электромагнитная обстановка</span></p>
+  </td>
+ </tr>
+</table>
+</div>
+<p><span class=rvts2><br></span></p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 11pt;
+ font-family: 'Calibri';
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts4
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts5
+{
+ font-size: 16pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts6
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts7
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts8
+{
+ font-size: 18pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps2
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_2>
+    <chapter_3 number="3" guid="0000FCAE18AB4A83BD7F8A0CDEEA1C6F">
+      <guid>0000FCAE18AB4A83BD7F8A0CDEEA1C6F</guid>
+      <title>Введение</title>
+      <index>1973867149</index>
+      <level>0</level>
+      <number>3</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <h1 class=rvps2><a name="_Toc444183988"></a><span class=rvts0><span class=rvts3>ВВЕДЕНИЕ</span></span></h1>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps4><span class=rvts2>С развитием радио- и радиотехнических средств разведки, возникла необходимость создания службы радио- и радиотехнического контроля - позволяющей получать оперативные и достаточно достоверные сведения о деятельности своих войск.</span></p>
+<p class=rvps4><span class=rvts2>Создание структуры КТК в сфере РЭБ не случайно, так как именно эти подразделения усложняют задачу вероятному противнику вести разведку, а также позволяют контролировать свои части и подразделения в целях оперативной маскировки.&nbsp;</span></p>
+<p class=rvps4><span class=rvts2>Задачи КТК как в мирное, так и военное время многообразны и требуют эффективного применения специальных средств контроля, измерения основных излучений РЭС и выработку рационального решения по защите объектов от ТСР.</span></p>
+<p class=rvps4><span class=rvts2>Защита объектов от технических средств разведки (TCP) представляет собой совокупность организационных и технических мероприятий проводимых с целью исключения или существенного затруднения добывания с помощью TCP сведений о вооружении, военной технике и военно-промышленных объектах или создания ложных представлений о них. При осуществлении мероприятий по защите объектов руководствуются определенными принципами, соблюдение которых обеспечивает решение поставленных задач защиты с максимальной эффективностью и минимальной стоимостью. Эти принципы заключаются в том, что защита независима от масштабов проведения и конкретной обстановки, должна быть, комплексной, активной, убедительной, непрерывной, разнообразной, а также экономически обоснованной.</span></p>
+<p class=rvps4><span class=rvts2>Эффективность частей и подразделений КТК напрямую зависит от их технического оснащения, грамотности экипажей и компетентности руководства в принятии решений. Применение средств радио- и радиотехнического контроля за последние десятилетия претерпела значительные изменения.</span></p>
+<p class=rvps4><span class=rvts2>Со временем от простейших приемников аппаратура частей и подразделений КТК стала пополняться более сложными средствами, анализа и оценки РЭО, аппаратурой контроля ЭМС, аппаратурой контроля ПЭМИН и мн.др. Применение ПЭВМ во взаимодействии с приемной аппаратурой, привело к возникновению новых более эффективных программно-аппаратных средств контроля.&nbsp;</span></p>
+<p class=rvps4><span class=rvts2>В первой главе данного пособия рассматриваются задачи, классификация и структура программно-аппаратных средств радио- и радиотехнического контроля. Во второй главе рассматриваются общие принципы построения современных радиоприемных устройств, предназначенных для задач контроля.</span></p>
+<p class=rvps4><span class=rvts2>В последующих главах рассматривается характеристики и возможности основных средств радио- и радиотехнического контроля стоящих на вооружении подразделений КТК. Особое внимание уделяется мобильным автоматизированным комплексам радио-, радиотехнического и специального контроля эффективности защиты информации общевойскового назначения МКТК-1 «Плавск», МКТК-1А «Дзюдоист», малогабаритному возимому многофункциональный комплексу радиоконтроля, пеленгования и подавления РП-377ЛА «Лорандит», стационарному и переносному автоматизированным радиопеленгаторным комплексам "Свет-МС" и "Свет-РП". С третьей по шестую главу достаточно подробно рассматривается структура этих средств, особенности их построения и применения. Для &nbsp;более глубокого освоения материала и тесного взаимодействия с практикой на основные элементы аппаратуры приводится алгоритм действия оператора с учетом особенностей специального программного обеспечения.&nbsp;</span></p>
+<p class=rvps5><span class=rvts4>Материал учебного пособия базируется на учебно-методических материалах применяемых на дисциплинах кафедры «Информационной безопасности» и является коллективной работой авторов, в преддверии ввода федерального государственного образовательного стандарта третьего поколения.</span></p>
+<p class=rvps4><span class=rvts2><br></span></p>
+<p class=rvps4><span class=rvts2><br></span></p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts4
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps2
+{
+ text-align: center;
+ text-indent: 0px;
+ page-break-after: avoid;
+ border-color: #365f91;
+ border-style: solid;
+ border-width: 2px;
+ border-top: none;
+ border-right: none;
+ border-left: none;
+ padding: 0px 0px 1px 0px;
+ margin: 18px 0px 2px 0px;
+}
+.rvps3
+{
+ text-align: center;
+ text-indent: 46px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps4
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps5
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_3>
+    <chapter_4 number="4" guid="0000FCCB8AD04E10A48EB02D53FA5162">
+      <guid>0000FCCB8AD04E10A48EB02D53FA5162</guid>
+      <title>1.Задачи, классификация и структура</title>
+      <index>1430475973</index>
+      <level>0</level>
+      <number>4</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <p><a class=rvts3 href="#_Toc444183989">1 ЗАДАЧИ, КЛАССИФИКАЦИЯ И СТРУКТУРА ПРОГРАММНО-АППАРАТНЫХ СРЕДСТВ</a></p>
+<p><a class=rvts2 href="#_Toc444183990">1.1. Задачи радиотехнического контроля и защиты информации</a></p>
+<p><a class=rvts2 href="#_Toc444183991">1.2. Классификация программно-аппаратных средств радио- радиотехнического контроля</a></p>
+<p><a class=rvts2 href="#_Toc444183992">1.3. Структура программно-аппаратных &nbsp;средств радио - радиотехнического контроля</a></p>
+<p><a class=rvts2 href="#_Toc444183993">1.4. Общие принципы построения цифровых радиоприемных &nbsp;устройств</a></p>
+<p><a class=rvts2 href="#_Toc444183994">1.5. Способы измерения параметров сигналов РЭС</a></p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+a.rvts2, span.rvts2
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+ border-bottom: solid 1px;
+}
+a.rvts3, span.rvts3
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+ border-bottom: solid 1px;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_4>
+    <chapter_5 number="5" guid="0000FCDED4064F11932599D2D6D18BFB">
+      <guid>0000FCDED4064F11932599D2D6D18BFB</guid>
+      <title>Задачи радиотехнического контроля и защиты информации</title>
+      <index>1010500064</index>
+      <level>1</level>
+      <number>5</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <h1 class=rvps3><a name="_Toc444183990"></a><span class=rvts0><span class=rvts2>1.1. Задачи радиотехнического контроля и защиты информации</span></span></h1>
+<p class=rvps4><span class=rvts5><br></span></p>
+<p class=rvps4><span class=rvts5>Исходя из требований действующих и разрабатываемых нормативных документов по организации и ведению КТК в ВС РФ, целей и задач частей и подразделений КТК в мирное и военное время, должно обеспечивать:&nbsp;</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps5><span class=rvts5>контроль выполнения РЭС установленных норм по защите информации от ТСР противника (иностранных государств);</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps5><span class=rvts5>контроль выполнения РЭС установленных для них режимов работы, а также энергетических, частотных, пространственных и временных ограничений, введенных на их работу в интересах обеспечения их ЭМС с другими РЭС в группировках войск;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps5><span class=rvts5>радиоконтроль установленного порядка и правил использования радиосредств;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps5><span class=rvts5>выявление источников непреднамеренных (преднамеренных) радиопомех;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps5><span class=rvts5>контроль загрузки радиочастотного спектра в заданных диапазонах частот и территориальных районах;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps5><span class=rvts5>выявление технических каналов утечки информации (ТКУИ), возникающих за счет побочных электромагнитных излучений и наводок (ПЭМИН) в ТСПИ;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps5><span class=rvts5>поиск специальных электронных устройств перехвата информации (СЭУПИ).</span></li>
+</ul>
+<p class=rvps4><span class=rvts5>При решении указанных задач основными объектами контроля являются важнейшие РЭС систем боевого управления и связи объединений, соединений и частей видов ВС, а также потенциальные источники непреднамеренных радиопомех для них.</span></p>
+<p class=rvps4><span class=rvts5>Под </span><span class=rvts7>радиоконтролем </span><span class=rvts5>будем понимать контроль за работой РЭС с целью выявления и устранения нарушений мер противодействия радиоразведке и &nbsp;демаскирующих признаков в организации радиосвязи, которые могут позволить вероятному противнику получать разведывательную информацию о составе, дислокации, характеристиках вооружения и военной техники войск.</span></p>
+<p class=rvps2><span class=rvts4>Под </span><span class=rvts6>радиотехническим</span><span class=rvts4> </span><span class=rvts6>контролем </span><span class=rvts4>будем понимать контроль за выполнением организационных и технических мероприятий ПД ИТР и обеспечением ЭМС в процессе испытаний, эксплуатации, хранения и боевого применения в войсках специальных РЭС предназначенных для управления войсками и оружием.</span></p>
+<p class=rvps2><span class=rvts4>Выполнение задач контроля выполнения РЭС установленных норм по защите информации от ТСР противника (иностранных государств), а также введенных на их работу энергетических, частотных, пространственных и временных ограничений целесообразно осуществлять способами зонального или объектового наблюдения требуемых объектов контроля с периодическим просмотром их известных рабочих частот (участков диапазонов рабочих частот) в автономном режиме, либо по текущим указаниям с пункта управления части (подразделения) КТК (ЦКУ).</span></p>
+<p class=rvps2><span class=rvts4>Радиоконтроль установленных порядка и правил использования радиосредств осуществляется способом объектового непрерывного или периодического наблюдения за назначенными радиосетями и радионаправлениями по известным радиоданным о них в автономном режиме, либо по текущим указаниям с пункта управления части (подразделения) КТК.</span></p>
+<p class=rvps4><span class=rvts5>Выявление источников непреднамеренных (преднамеренных) радиопомех важнейшим РЭС в группировках войск осуществляется по заявкам с пункта управления части (подразделения) КТК способом объектового наблюдения за РЭС, подверженным воздействию не-преднамеренных (преднамеренных) радиопомех, по известным данным о времени, месте, канале и характере воздействия радиопомех с последующим зональным наблюдением за источником непреднамеренных (преднамеренных) радиопомех на его выявленных рабочих частотах в автономном режиме, либо по указаниям с пункта управления части (подразделения) КТК.</span></p>
+<p class=rvps4><span class=rvts5>Контроль загрузки радиочастотного спектра в заданных диапазонах частот и территориальных районах осуществляется способом зонального периодического наблюдения за излучениями РЭС в заданных диапазонах частот свободным поиском в автономном режиме.</span></p>
+<p class=rvps4><span class=rvts5>Для &nbsp;проведения полного цикла КТК &nbsp;необходимо &nbsp;обязательное наличие трех элементов:&nbsp;</span></p>
+<ol style="text-indent: 0px; padding: 0; margin: 0 0 0 57px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts5>норм эффективности защиты;&nbsp;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts5>методик (методов) проведения технического контроля;&nbsp;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts5>контрольно-измерительной аппаратуры.</span></li>
+</ol>
+<p class=rvps4><span class=rvts5>Оценка результатов проводимого технического контроля эффективности мер защиты производится с помощью системы контролируемых показателей, называемых нормами. Все нормативные показатели, используемые при техническом контроле, можно разделить на информационные и технические.</span></p>
+<p class=rvps4><span class=rvts5>Под информационными показателями понимаются вероятности обнаружения (не обнаружения), распознавания (не распознавания) и измерения технических характеристик объекта с заданными ошибками.</span></p>
+<p class=rvps4><span class=rvts5>Техническим показателем эффективности принимаемых мер защиты является количественная мера, характеризующая энергетические, временные, пространственные и частотные характеристики создаваемого объектом физического поля.</span></p>
+<p class=rvps2><span class=rvts4>Под методом (методикой) технического контроля понимается совокупность расчетных и измерительных операций, а также последовательность их выполнения при решении конкретных задач контроля. В зависимости от содержания выполняемых операций методы технического контроля делятся на:</span></p>
+<p class=rvps2><span class=rvts4>инструментальные, при которых контролируемые показатели определяются непосредственно в ходе измерений (регистрации) параметров различных физических полей;</span></p>
+<p class=rvps2><span class=rvts4>инструментально-расчетные, при которых контролируемые показатели определяются расчетным путем с использование результатов измерений (регистрации) параметров различных физических полей;</span></p>
+<p class=rvps2><span class=rvts4>расчетные, при которых контролируемые показатели рассчитываются по исходным данным, содержащимся в руководящей справочной и другой технической документации.&nbsp;</span></p>
+<p class=rvps2><span class=rvts4>Инструментальные методы технического контроля применяются при наличии аппаратуры контроля, позволяющей непосредственно измерять (регистрировать) физические параметры (технические показатели), указанные в нормах, технических заданиях, технических условиях и другой нормативно-технической документации.</span></p>
+<p class=rvps2><span class=rvts4>Инструментально-расчетные методы технического контроля применяются в тех случаях, когда имеющаяся аппаратура контроля не обеспечивает непосредственное измерение параметров (технических показателей), установленных нормативно-технической документацией, или в случаях недостаточной чувствительности аппаратуры контроля (ниже установленных значений нормативных показателей).</span></p>
+<p class=rvps2><span class=rvts4>Расчетные методы технического контроля применяются в случаях отсутствия необходимой аппаратуры контроля, а также в случаях необходимости получения предварительных данных о зонах разведдоступности скрываемых объектов, например, перед аттестационными инструментальными проверками рабочих мест.</span></p>
+<p class=rvps2><span class=rvts4>Контрольно-измерительная аппаратура является необходимым элементом при проведении технического контроля. В зависимости от вида технического контроля она может размещаться на космических, воздушных, морских и наземных носителях. При использовании в наземных условиях она может быть выполнена в портативном варианте. Контрольно-измерительная аппаратура должна обеспечивать возможность непосредственного измерения контролируемых параметров по соответствующему физическому полю, иметь чувствительность, адекватную чувствительности применяемой аппаратуры разведки, иметь небольшие габариты и вес, быть достаточно простой и надежной в эксплуатации.</span></p>
+<p class=rvps2><span class=rvts3><br></span></p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 11pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts4
+{
+ font-size: 13pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts5
+{
+ font-size: 13pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts6
+{
+ font-size: 13pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts7
+{
+ font-size: 13pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps2
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps3
+{
+ text-align: left;
+ text-indent: -19px;
+ page-break-inside: avoid;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 47px;
+}
+.rvps4
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps5
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps6
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 57px;
+}
+/* ========== Lists ========== */
+.list0 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list1 {text-indent: 0px; padding: 0; margin: 0 0 0 72px; list-style-position: outside; list-style-type: circle;}
+.list2 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: square;}
+.list3 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: disc;}
+.list4 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: circle;}
+.list5 {text-indent: 0px; padding: 0; margin: 0 0 0 57px; list-style-position: outside;}
+.list6 {text-indent: 0px; padding: 0; margin: 0 0 0 63px; list-style-position: outside; list-style-type: lower-alpha;}
+.list7 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: lower-roman;}
+.list8 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: lower-alpha;}
+</css>
+    </chapter_5>
+    <chapter_6 number="6" guid="0000FCE60B784A09927DBE550B1D1B48">
+      <guid>0000FCE60B784A09927DBE550B1D1B48</guid>
+      <title>Классификация программно-аппаратных средств радио- радиотехнического контроля</title>
+      <index>802658555</index>
+      <level>1</level>
+      <number>6</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <h1 class=rvps3><a name="_Toc444183991"></a><span class=rvts0><span class=rvts4>1.2. Классификация программно-аппаратных средств радио- радиотехнического контроля</span></span></h1>
+<p class=rvps4><span class=rvts2><br></span></p>
+<p class=rvps4><span class=rvts2>Представляется целесообразным деление программно-аппаратных средств радио, радиотехнического контроля и защиты информации на категории (группы) по явно выраженным специфическим при­знакам, с последующим определением рациональной структуры аппаратуры контроля. &nbsp;К таким признакам относятся:</span></p>
+<ul style="text-indent: 23px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px" class=rvps5><span class=rvts2>размер зоны (территории) действия;</span></li>
+ <li style="margin-left: 0px" class=rvps5><span class=rvts2>характер &nbsp;использования;</span></li>
+ <li style="margin-left: 0px" class=rvps6><span class=rvts2>выполняемые функции;</span></li>
+ <li style="margin-left: 0px" class=rvps6><span class=rvts2>производительность оборудования;</span></li>
+ <li style="margin-left: 0px" class=rvps6><span class=rvts2>конструктивные ограничения.</span></li>
+</ul>
+<p class=rvps7><span class=rvts2>Размер зоны действия. Все средства по размеру зоны действия могут быть разбиты на следующие группы:</span></p>
+<ol style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps8><span class=rvts2>Средства для решения задач контроля на местности и &nbsp;пеленгования &nbsp;ИРИ;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps8><span class=rvts2>Средства для проведения мероприятий по защите информации на внешних границах контролируемых объектов;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps8><span class=rvts2>Средства для решения задач контроля в пределах отдельного или многих контролируемых помещений на объекте, далее они будут называться средствами выявления ТКУИ;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps9><span class=rvts2>Средства для проведения специальных исследований ПЭМИН.</span></li>
+</ol>
+<p class=rvps4><span class=rvts2>Рассмотрим категории программно-аппаратных средств контроля в соответствии с этими признаками.</span></p>
+<p class=rvps10><span class=rvts2>Средства первой и второй групп должны давать возможность охвата значительных территорий в сочетании с возможностью выявления ИРИ на внешних границах контролируемых объектов.</span></p>
+<p class=rvps11><span class=rvts2>Средства третьей группы должны с максимальным быстродействием обеспечивать решение задач защиты информации с целью выявления и локализации местоположения ИРИ, а также идентификации их принадлежности к классу радиомикрофонов. Данные задачи должны решаться как в отдельных помещениях, так и в группе помещений при управлении с одного поста, при этом средства контроля размещаются &nbsp;внутри помещений.</span></p>
+<p class=rvps12><span class=rvts2>Специальные исследования технических средств на наличие побочных электромагнитных излучений и наводок проводятся, как правило, в специально выделенных помещениях, но возможно проведение исследований и непосредственно в месте размещения этих средств.&nbsp;</span></p>
+<p class=rvps12><span class=rvts2>Характер использования. По характеру использования программно-аппаратных средств контроля и защиты можно разделить на две группы:</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps13><span class=rvts2>Для открытого применения на стационарных и временных постах, а также на выезде с использованием транспортной базы различного базирования;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps13><span class=rvts2>Обеспечивающие скрытное использование с размещением аппаратуры в кейсе, в сумке или на теле оператора.&nbsp;</span></li>
+</ul>
+<p class=rvps2><span class=rvts3>При этом должны быть приняты соответствующие меры по камуфлированию антенных систем и скрытному конструктивному выполнению аппаратуры, а в отдельных случаях в сочетании с ее полностью автономным функционированием во время перемещения оператора;</span></p>
+<p class=rvps2><span class=rvts3>Выполняемые функции. Оборудование программно-аппаратных средств контроля и защиты может быть разделено на несколько групп технических средств, выполняющих:</span></p>
+<p class=rvps2><span class=rvts3>универсальные функции;</span></p>
+<ul style="text-indent: 27px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px" class=rvps14><span class=rvts2>дополнительные функции для решения задач программно-аппаратных средств контроля на местности;</span></li>
+ <li style="margin-left: 0px" class=rvps14><span class=rvts2>дополнительные функции для решения задач программно-аппаратных средств защиты в одном отдельно контролируемом помещении и группе наиболее важных помещений, размещенных на контролируемом объекте;</span></li>
+ <li style="margin-left: 0px" class=rvps14><span class=rvts2>дополнительные функции для выполнения задач выявления ПЭМИН.</span></li>
+</ul>
+<p class=rvps15><span class=rvts2>Производительность средств программно-аппаратных средств контроля и защиты характеризуется скоростью панорамного спектрального анализа сигналов при заданных разрешающей способности и динамическом диапазоне. &nbsp;Пред­лагается следующая классификация:</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps16><span class=rvts2>низкая производительность (10... 100 МГц/с);</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps16><span class=rvts2>средняя производительность (100...1000 МГц/с);</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps16><span class=rvts2>высокая производительность (1000... 10 000 МГц/с);</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps16><span class=rvts2>сверхвысокая производительность (выше 10 ГГц/с).</span></li>
+</ul>
+<p class=rvps17><span class=rvts2>Конструктивные ограничения. Современное оборудование средств контроля и защиты информации создается с позиций системного подхода и представляет собой систему аппаратно-программных средств, объединенных общим замыслом. Это предусматривает увязывание массогабаритных характеристик отдельных средств, их электромагнитную совместимость, развязку по электропитанию, проработку конструктивных решений,&nbsp;</span></p>
+<p class=rvps7><span class=rvts2>согласованных с параметрами носителей, на которых они используются. Решение подобной задачи лежит на пути рационального разбиения средств на группы, характеризующиеся выполнением каждого или нескольких поставленных условий. Всю номенклатуру средств можно разбить на семейства стационарных, мобильных, портативных и носимых средств. При этом в каждом семействе при разработке аппаратуры предпочтительными являются технические решения, обеспечивающие выполнение в первую очередь «пакета» основных тактико-технических характеристик (ТТХ), а во вторую очередь — минимальные массогабаритные показатели и наименьшую стоимость.</span></p>
+<p class=rvps7><span class=rvts2>Для стационарных средств контроля практически отсутствуют масса - габаритные и энергетические ограничения и в них могут быть реализова­ны наилучшие достижимые параметры. Так, получение большой зоны действия постов стационарного базирования обеспечивается размещением антенных систем на выносных мачтах, устанавливаемых, в свою очередь, на высоких зданиях или на возвышенных местах.</span></p>
+<p class=rvps7><span class=rvts2>Для мобильных средств, которые размещены на транспортной базе наземного или воздушного базирования с возможностью выполнения ими своих функций при движении, вступают в действие определенные ограничения по весу, размерам и энергопотреблению. Это связано с габаритами и грузоподъемностью самих носителей, а также с энергоемкостью и мощностью источников, размещенных на тех же транспортных средствах.</span></p>
+<p class=rvps4><span class=rvts2>Поскольку указанные ограничения не очень строгие, в аппаратуре данного семейства, как и в стационарных средствах, могут быть использованы многоканальные цифровые панорамные радиоприемные устройства и получены высокие показатели по динамическому диапазону, скорости панорамного анализа и обработки поступающей информации.</span></p>
+<p class=rvps10><span class=rvts2>Портативные средства контроля рассчитаны на переноску одним или несколькими операторами и последующее использование на стационарных и временных постах, оборудованных или не оборудованных питанием, а также на открытой местности. Требование функционирования, в ходе их перемещения не ставится. Таким образом, сразу накладываются существенные ограничения по массе, потреблению и габаритным размерам антенных систем обнаружения и пеленгования. Кроме того, для портативных средств контроля необходимым является наличие автономного источника питания и обеспечение возможности его функционирования (например, заряд аккумуляторов, развертывание солнечных батарей, снабжение топливом для бензоэлектрогенераторов и т.д.).&nbsp;</span></p>
+<p class=rvps10><span class=rvts2>Носимые средства КТК предназначены, прежде всего, для работы во время движения оператора при размещении их на теле (в руках) оператора. Кроме того, данные средства могут использоваться для выполнения задач контроля на временных или стационарных постах. По характеру применения данные средства относятся к универсальным, использование которых оправдано для определения местоположения ИРИ в труднодоступных местах или там, где требуется скрытная работа. В связи с серьезными ограничениями по потреблению и массогабаритным параметрам показатели такой аппаратуры должны выбираться компромиссно с учетом длительности работы с одним комплектом источников.</span></p>
+<p class=rvps18><span class=rvts2>Измерительные радиоприемные средства и антенные устройства необходимы для измерения параметров штатных РЭС при контроле излучений зарегистрированных государственными органами средств связи, а также при оценке эффективности мер по предотвращению утечки информации на границах контролируемых объектов и при исследованиях ПЭМИН. Измерительные средства могут быть выполнены в стационарном, мобильном, портативном или носимом исполнении. Возможность их использования для проведения измерений должна подтверждаться соответствующими сертификатами, например, Госстандарта и ФСТЭК Российской &nbsp;Федерации.</span></p>
+<p class=rvps19><span class=rvts2>Таким образом, обоснованным является разбиение всех программно-аппаратных средств контроля и защиты на следующие группы:</span></p>
+<ul style="text-indent: -1px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px" class=rvps20><span class=rvts2>семейство стационарных программно-аппаратных средств контроля и защиты;</span></li>
+ <li style="margin-left: 0px" class=rvps21><span class=rvts2>семейство мобильных программно-аппаратных средств контроля и защиты наземного, воздушного, морского базирования;</span></li>
+ <li style="margin-left: 0px" class=rvps22><span class=rvts2>семейство портативных программно-аппаратных средств контроля и защиты, функционирование которых возможно только после их развертывания на постах временного размещения;</span></li>
+ <li style="margin-left: 0px" class=rvps23><span class=rvts2>семейство носимых программно-аппаратных средств контроля и защиты для скрытного и открытого использования, предназначенных для выполнения задач во время движения оператора (без участия оператора в управлении средством, с частичным и полным участием);</span></li>
+ <li style="margin-left: 0px" class=rvps24><span class=rvts2>измерительные средства для обеспечения контроля эффективности принятых мер по защите от утечки информации, а также для измерения параметров излучений штатных радиосредств.</span></li>
+</ul>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts4
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps2
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps3
+{
+ text-align: left;
+ text-indent: -19px;
+ page-break-inside: avoid;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 47px;
+}
+.rvps4
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps5
+{
+ text-align: left;
+ text-indent: 23px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps6
+{
+ text-align: left;
+ text-indent: 23px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps7
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 0px;
+}
+.rvps8
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 2px 0px 48px;
+}
+.rvps9
+{
+ text-align: left;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps10
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 3px 0px 0px;
+}
+.rvps11
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 4px 0px 0px;
+}
+.rvps12
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 9px 0px 0px;
+}
+.rvps13
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 9px 0px 48px;
+}
+.rvps14
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 27px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 5px 0px 48px;
+}
+.rvps15
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 5px 0px 0px;
+}
+.rvps16
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps17
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps18
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 5px 0px 0px;
+}
+.rvps19
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 8px 0px 0px;
+}
+.rvps20
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -1px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 8px 0px 48px;
+}
+.rvps21
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -1px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps22
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -1px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps23
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -1px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 14px 0px 48px;
+}
+.rvps24
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -1px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+/* ========== Lists ========== */
+.list0 {text-indent: 27px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list1 {text-indent: 0px; padding: 0; margin: 0 0 0 75px; list-style-position: outside; list-style-type: circle;}
+.list2 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: square;}
+.list3 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: disc;}
+.list4 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: circle;}
+.list5 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list6 {text-indent: 0px; padding: 0; margin: 0 0 0 75px; list-style-position: outside; list-style-type: lower-alpha;}
+.list7 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: lower-roman;}
+.list8 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: lower-alpha;}
+.list9 {text-indent: -1px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list10 {text-indent: 0px; padding: 0; margin: 0 0 0 72px; list-style-position: outside; list-style-type: circle;}
+.list11 {text-indent: 23px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+</css>
+    </chapter_6>
+    <chapter_7 number="7" guid="0000FCF43F5046C6B7DC95EFE9960C05">
+      <guid>0000FCF43F5046C6B7DC95EFE9960C05</guid>
+      <title>Структура программно-аппаратных  средств радио - радиотехнического контроля </title>
+      <index>1801818782</index>
+      <level>1</level>
+      <number>7</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <h1 class=rvps5><a name="_Toc444183992"></a><span class=rvts0><span class=rvts4>1.3. Структура программно-аппаратных &nbsp;средств радио - радиотехнического контроля&nbsp;</span></span></h1>
+<p class=rvps3><span class=rvts2><br></span></p>
+<p class=rvps4><span class=rvts3>Основной целью разработки программно-аппаратных средств радио- и радиотехнического контроля и защиты информации является создание универсальных программно-аппаратных систем из ограниченной номенклатуры устройств для выполнения максимально возможного объема задач контроля. Основные требования к средствам контроля, направленные на минимизацию и унификацию аппаратуры и программного обеспечения, состоят в следующем:</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps9><span class=rvts2>универсальность и многофункциональность базового средства;&nbsp;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps9><span class=rvts2>универсальность и многофункциональность дополнительных устройств;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps10><span class=rvts2>обеспечение совместной работы базового средства семейства с дополнительными устройствами, общими для всех семейств средств радио и радиотехнического контроля;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps11><span class=rvts2>унификация аппаратуры различных семейств;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps8><span class=rvts2>унификация программного обеспечения с использованием одинаковых модулей, форматов данных и интерфейсов для различных семейств;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps12><span class=rvts2>унификация систем электропитания аппаратуры;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps13><span class=rvts2>рациональное распределение задач обработки между аппаратными сигнальными процессорами и управляющей ПЭВМ;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps13><span class=rvts2>создание библиотек кодов для базового комплекта каждого из семейств;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts2>комплексное решение задач электромагнитной совместимости.</span></li>
+</ul>
+<p class=rvps4><span class=rvts3>Исследования вариантов построения цифровых РПУ и антенных систем с широким диапазоном рабочих частот показывают, что наименьшее количество средств достигается за счет ограничения рабочего диапазона базового средства семейства при возможности его расширения дополнительными устройствами, общими для всех семейств. Реализация данного принципа позволяет выбрать фиксированный базовый состав устройств для каждого семейства.</span></p>
+<p class=rvps4><span class=rvts3>Реализация принципа многофункциональности предполагает сокращение состава средств радио и радиотехнического контроля на основе использования аппаратного цифрового блока с возможностью быстрого перепрограммирования для выполнения различных алгоритмов обработки сигналов, совмещение функций в отдельно реализуемых устройствах, а также рациональное распределение задач между двумя слоями программного обеспечения, используемых в аппаратном цифровом блоке и в управляющей ПЭВМ (рисунок 1.1).</span></p>
+<p class=rvps4><span class=rvts3>Опыт разработки и использования систем комплексного технического контроля показывает, что структура средства должна включать:</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps14><span class=rvts2>одноканальный или многоканальный (с когерентно связанными гетеродинами) преобразователь радиосигналов;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps15><span class=rvts2>одно- или многоканальный блок аналого-цифровой обработки;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps14><span class=rvts2>аппаратуру цифровой записи радиосигналов на промежуточной частоте на магнитный или другой носитель;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps14><span class=rvts2>аппаратуру технического анализа сигналов в реальном времени и в режиме отложенной обработки;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps15><span class=rvts2>блок цифровой демодуляции;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps14><span class=rvts2>аппаратуру записи демодулированных сигналов одновременно со служебными сигналами (текущее время на момент записи, несущая частота и т.д.);</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps15><span class=rvts2>блок электропитания с пониженным уровнем помех;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps14><span class=rvts2>универсальное устройство управления, допускающее возможность его быстрой замены, а также смены режимов на основе выбора программ специального математического обеспечения (СМО);</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps15><span class=rvts2>унифицированные программные пакеты СМО.</span></li>
+</ul>
+<p class=rvps16><span class=rvts2><br></span></p>
+<p class=rvps17><img width=973 height=570 alt="" style="vertical-align: text-bottom; padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00002.png"></p>
+<p class=rvps17><span class=rvts2><br></span></p>
+<p class=rvps2><span class=rvts2>Рисунок 1.1 - Структурная схема программно-аппаратного средства радио и радиотехнического &nbsp;контроля</span></p>
+<p class=rvps18><span class=rvts2><br></span></p>
+<p class=rvps4><span class=rvts3>К дополнительному оборудованию относятся:</span></p>
+<ul style="text-indent: -1px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px" class=rvps19><span class=rvts2>широкодиапазонные ненаправленные антенны различного применения;</span></li>
+ <li style="margin-left: 0px" class=rvps19><span class=rvts2>наборы антенных систем для автоматического пеленгования в движении, на стоянках и для стационарных постов;</span></li>
+ <li style="margin-left: 0px" class=rvps20><span class=rvts2>наборы антенных модулей с направленными свойствами для ручных пеленгаторов открытого и скрытного использования;</span></li>
+ <li style="margin-left: 0px" class=rvps19><span class=rvts2>преобразователи радиосигналов для расширения рабочих диапазонов частот; цифровые регистраторы сигналов;</span></li>
+ <li style="margin-left: 0px" class=rvps21><span class=rvts2>аппаратура привязки средств контроля к географическим координатам.</span></li>
+</ul>
+<p class=rvps4><span class=rvts3>Ядром любого программно-аппаратного средства радио -радиотехнического контроля (Р и РТК) является цифровое РПУ или АС, обеспечивающее возможность реализации требуемых функций.</span></p>
+<p class=rvps4><span class=rvts3>Можно выделить основные функции ПАК Р и РТК, необходимые для оценки и параметров ИРИ:</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps7><span class=rvts2>поиск новых сигналов на основе быстрого панораммного анализа и сравнения полученной совокупности спектральных отсчетов с порогом, «эталонной» панорамой или со спектральными компонентами идентичного «опорного» тракта;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps7><span class=rvts2>определение направления на ИРИ на основе корелляционно-интерферометрического метода;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps7><span class=rvts2>регистрация радиосигналов &nbsp;в векторной форме для последующего технического анализа и определения параметров модуляции и передач;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps7><span class=rvts2>измерение и регистрация напряженности поля, уровня и параметров сигнала</span></li>
+</ul>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts4
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps2
+{
+ text-align: center;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps3
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps4
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps5
+{
+ text-align: left;
+ text-indent: -19px;
+ page-break-inside: avoid;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 47px;
+}
+.rvps6
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps7
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 2px 0px 48px;
+}
+.rvps8
+{
+ text-align: left;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps9
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 7px 0px 48px;
+}
+.rvps10
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 6px 0px 48px;
+}
+.rvps11
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps12
+{
+ text-align: left;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps13
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 3px 0px 48px;
+}
+.rvps14
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 48px;
+}
+.rvps15
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps16
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 3px 0px 0px;
+}
+.rvps17
+{
+ text-align: center;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 3px 0px 0px;
+}
+.rvps18
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 3px 0px 0px;
+}
+.rvps19
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -1px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 2px 0px 48px;
+}
+.rvps20
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -1px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 48px;
+}
+.rvps21
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -1px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 3px 0px 48px;
+}
+/* ========== Lists ========== */
+.list0 {text-indent: -1px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list1 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: circle;}
+.list2 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: square;}
+.list3 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: disc;}
+.list4 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list5 {text-indent: 0px; padding: 0; margin: 0 0 0 60px; list-style-position: outside; list-style-type: circle;}
+.list6 {text-indent: 0px; padding: 0; margin: 0 0 0 72px; list-style-position: outside; list-style-type: circle;}
+</css>
+    </chapter_7>
+    <chapter_8 number="8" guid="0000FCF74B174F1A9A2C61C56E364C70">
+      <guid>0000FCF74B174F1A9A2C61C56E364C70</guid>
+      <title>Общие принципы построения цифровых радиоприемных  устройств</title>
+      <index>93182235</index>
+      <level>1</level>
+      <number>8</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <h1 class=rvps4><a name="_Toc444183993"></a><span class=rvts0><span class=rvts8>1.4. Общие принципы построения цифровых радиоприемных &nbsp;устройств&nbsp;</span></span></h1>
+<p class=rvps12><span class=rvts17><br></span></p>
+<p class=rvps3><span class=rvts6>Цифровое РПУ — это приемное устройство, в котором осуществляется обработка сигнала из аналоговой в цифровую форму и обратно.</span></p>
+<p class=rvps3><span class=rvts6>В цифровом радиоприемном устройстве (ЦРПУ), предназначенном для приема аналоговых сигналов, осуществляется полная или частичная цифровая обработка сигналов (ЦОС). По степени использования ЦОС ЦРПУ можно разделить на две группы:&nbsp;</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps13><span class=rvts3>приемники, в которых отсутствует преобразование принимаемого сигнала в цифровую форму, а на цифровой элементной базе реализованы отдельные узлы, например, устройства управления, контроля, отображения информации, системы вхождения в связь, системы автоматического регулирования, цифровые синтезаторы частот;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps13><span class=rvts3>приемники, в которых сигнал преобразуется в цифровой вид и на цифровой элементной базе выполнена часть главного тракта приема, включая цифровой фильтр селекции сигналов, цифровые демодуляторы, цифровые устройства распознавания и измерения параметров сигналов, а также вспомогательные узлы.</span></li>
+</ul>
+<p class=rvps14><span class=rvts3>Наиболее многочисленной в настоящее время является </span><span class=rvts16>первая группа радиоприемных устройств</span><span class=rvts3>. Практически все современные профессиональные радиоприемные устройства имеют в своем составе узлы, реализованные на цифровой базе.</span></p>
+<p class=rvps14><span class=rvts3>К </span><span class=rvts16>приемникам второй группы</span><span class=rvts3> относятся устройства, в которых в аналогвом виде осуществляется предварительная фильтрация сигнала, его усиление, преобразование частоты сигнала на промежуточную частоту, далее сигнал ПЧ подвергается аналого-цифровому преобразованию и вся дальнейшая обработка сигнала осуществляется в цифровом &nbsp;виде.</span></p>
+<p class=rvps14><span class=rvts3>Ко второй группе относятся практически все современные радиоприемные устройства, предназначенные для решения задач радиоконтроля. Обобщенная структурная схема цифрового радиоприемного устройства включает пять функциональных блоков, как показано на (рисунок 1.2).</span></p>
+<p class=rvps14><span class=rvts3><br></span></p>
+<p class=rvps15><img width=997 height=561 alt="" style="vertical-align: text-bottom; padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00003.png"></p>
+<p class=rvps15><span class=rvts3><br></span></p>
+<p class=rvps15><span class=rvts3>Рисунок 1.2- Структурная схема цифрового радиоприемного устройства</span></p>
+<p class=rvps15><span class=rvts3><br></span></p>
+<p class=rvps3><span class=rvts6>Усилительно-преобразовательный тракт принимает сигнал от антенны, отфильтровывает его от помех, смещает спектр входного сигнала на промежуточную частоту, на которой выполняется аналого-цифровое преобразование. В состав усилительно-преобразовательного тракта могут входить вспомогательные узлы — система АРУ, аттенюаторы, ограничители и т.п., влияющие на амплитудную характеристику усилительного тракта, но не вносящие искажений в принимаемую информацию.</span></p>
+<p class=rvps3><span class=rvts6>В тракте Цифровой Обработки Ссигналов (ЦОС) осуществляется основная обработка сигнала. Он включает фильтр, в значительной степени определяющий помехоустойчивость приемного устройства, демодулятор, цепи последетекторной обработки.</span></p>
+<p class=rvps3><span class=rvts6>Синтезатор частот преобразует частоту внешнего или собственного опорного генератора и формирует из него необходимые для работы сетки частот. Синтезатор позволяет перестраивать приемное устройство на другую входную частоту. Отдельные синтезаторы могут входить в состав следящих систем. Кроме того, синтезатор может формировать сетки частот, необходимые для работы цифровых устройств обработки &nbsp;сигнала.</span></p>
+<p class=rvps3><span class=rvts6>Устройство управления и отображения реализует в автономном режиме заданный алгоритм работы приемного устройства (включение, выключение, поиск и выбор сигнала, адаптацию к меняющимся условиям работы и т.п.), позволяет оператору вручную или автоматизированно управлять приемным устройством.</span></p>
+<p class=rvps3><span class=rvts6>Вторичный источник питания предназначен для преобразования энергии первичного источника, например стационарной сети 220 В или бортовой сети, в форму пригодную для использования непосредствен­но в приемном устройстве.</span></p>
+<p class=rvps16><span class=rvts3><br></span></p>
+<p class=rvps17><span class=rvts4>Виды радиоприемных устройств для радио- &nbsp;и &nbsp;радиотехнического контроля</span></p>
+<p class=rvps18><span class=rvts3><br></span></p>
+<p class=rvps8><span class=rvts3>Несмотря на общность принципов работы, из всего разнообразия РПУ, используемых в настоящее время для решения задач контроля, можно выделить несколько характерных видов:</span></p>
+<p class=rvps8><span class=rvts16>Сканирующий приемник</span><span class=rvts3> - для которого характерны высокая чувствительность и избирательность, использование методов, обеспечивающих помехоустойчивость и надежность в условиях воздействия сильных импульсных, флуктуационных и сосредоточенных по спектру помех. Как правило, сканирующий приемник относится к первой группе цифровых радиоприемных устройств.</span></p>
+<p class=rvps8><span class=rvts16>Селективный микровольтметр</span><span class=rvts3> — вольтметр, снабженный перестраиваемым узкополосным фильтром и благодаря этому измеряющий напряжение в полосе частот, вплоть до отдельных гармоник спектра. Наиболее совершенные селективные микровольтметры отличаются от анализаторов спектра лишь ручной перестройкой и отсутствием панорамного отображения (рисунок 1.3). Селективные микровольтметры позволяют измерять уровень сигналов на выходе антенного тракта в заданной полосе для широкого рабочего диапазона частот.</span></p>
+<p class=rvps19><img width=229 height=122 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00004.png"></p>
+<p class=rvps19><span class=rvts3><br></span></p>
+<p class=rvps19><span class=rvts3>Рисунок 1.3 - Селективный микровольтметр SMW</span></p>
+<p class=rvps20><span class=rvts3><br></span></p>
+<p class=rvps3><span class=rvts15>Анализатор спектра (АС)</span><span class=rvts6> — универсальный измерительный прибор, предназначенный для исследования спектрального состава сигналов и измерения их параметров (рисунок 1.4). Структура АС совпадает со структурой супергетеродинного приемника. В зависимости от типа датчика входного сигнала (с соответствующими согласующими цепями) АС может использоваться в различных областях науки и техники. В частности, при использовании антенны (в качестве датчика радиосигнала) АС становится панорамным приемником. При дополнительном подключении между антенной и АС цепей предварительной селекции такой анализатор способен выполнять задачи панорамного измерительного радиоприемника.</span></p>
+<p class=rvps9><span class=rvts3>Несмотря на все вышеперечисленные достоинства анализаторов, их использование при выполнении радио контрольных работ не всегда целесообразно, поскольку базовая технология построения анализатора, как правило, предназначена для реализации универсальных функциональных возможностей.</span></p>
+<p class=rvps9><span class=rvts16>Панорамный радиоприемник</span><span class=rvts3> — РПУ с широкой полосой пропускания (от сотен килогерц до нескольких десятков мегагерц), с возможностью отображения спектрального состава сигналов и с высокой скоростью спектрального анализа (от сотен мегагерц до десятков гигагерц в секунду). Панорамный приемник, как правило, имеет демодуляторы сигналов с AM, ЧМ, ФМ, ОМ, возможность подключения к ПЭВМ.</span></p>
+<p class=rvps7><span class=rvts3><br></span></p>
+<p class=rvps21><img width=274 height=207 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00005.png"></p>
+<p class=rvps21><span class=rvts3><br></span></p>
+<p class=rvps21><span class=rvts3>Рисунок 1.4 - Анализатор спектра НР-4405В</span></p>
+<p class=rvps21><span class=rvts3><br></span></p>
+<p class=rvps3><span class=rvts15>Панорамный измерительный радиоприемник</span><span class=rvts6> — это панорамный приемник с высокими метрологическими характеристиками измерения уровня, частоты и других параметров радиосигналов. Измерительный приемник является «сердцем» современной радио контрольной установки. В настоящее время собственно аппаратурная часть радио контрольного оборудования &nbsp;ограничивается антенным комплексом и измерительным приемником.&nbsp;</span></p>
+<p class=rvps3><span class=rvts6>В состав панорамного измерительного приемника, как правило, входит набор из пикового, квазипикового и среднеквадратического детекторов, предназначенных для измерения уровней сигналов. Измерительный приемник должен обеспечивать частотное разрешение от нескольких Герц до десятков килогерц при спектральном анализе сигналов и работать под управлением ПЭВМ. Всем этим условиям отвечает специальный супергетеродинный приемник с измерительным прибором на выходе, который имеет высокую чувствительность &nbsp;(до &nbsp; &nbsp; 10</span><span class=rvts14>-15</span><span class=rvts6>&nbsp;Вт) и избирательность (50...60 дБ), например AR-5000.</span></p>
+<p class=rvps10><span class=rvts3><br></span></p>
+<p class=rvps22><span class=rvts4>Сканирующий приемник AR-5000</span></p>
+<p class=rvps10><span class=rvts3><br></span></p>
+<p class=rvps3><span class=rvts6>Сканирующий приемник AR5000 предназначен для контроля радиоэфира в диапазоне частот от 10 кГц до 2,6 ГГц.</span></p>
+<p class=rvps3><span class=rvts6>Приемник, представленный на рисунке 1.5, обладает высокими эксплуатационными характеристиками и большим набором сервисных функций.</span></p>
+<p class=rvps3><span class=rvts6><br></span></p>
+<p class=rvps2><img width=233 height=169 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00006.jpg"></p>
+<p class=rvps21><span class=rvts3><br></span></p>
+<p class=rvps21><span class=rvts3>Рисунок 1.5 - Сканирующий приемник AR-5000</span></p>
+<p class=rvps21><span class=rvts3><br></span></p>
+<p class=rvps3><span class=rvts6>AR5000 имеет следующие режимы работы: настройка, поиск, программный поиск, занесение данных в каналы памяти, сканирование каналов памяти, приоритетный канал и может быть подключен (через СОМ-порт) к компьютеру IBM PC для использования его под управлением специальных программ (СМПО).</span></p>
+<p class=rvps3><span class=rvts6>Технические характеристики:</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>диапазон частот: 10 кГц-2600 МГц;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>виды модуляции: AM, FM, USB, LSB, CW;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>встроенный декодер DTMF и CTCSS кодов;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>полосы пропускания: 3, 6, 15, 40, 110, 220 кГц;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>возможность уменьшения шага настройки до 1 Гц;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>банк памяти на 1000 каналов для дальнейшего автоматического сканирования;&nbsp;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>банк памяти на 2100 каналов для дальнейшего пропуска в режиме поиска;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>скорость сканирования – 25 - 45 каналов в секунду;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>скорость поиска – 25 – 45 частот в секунду с шагом менее 100&nbsp;кГц;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>возможность подключения ПЭВМ через порт RS232.</span></li>
+</ul>
+<p class=rvps3><span class=rvts6>Девятиконтактный гнездовой разъем типа RS232C и связанная с ним схема устанавливаются в приемник как стандартная принадлежность. Это позволяет подключать приемник AR5000 непосредственно к компьютеру для дистанционного управления. Для приемника AR5000 разрабатывается программное обеспечение под Windows ХР, а протокол команд RS232 для программистов поставляется в качестве дополнительной принадлежности.</span></p>
+<p class=rvps3><span class=rvts6>Подключение к IBM-совместимому ПК представлена в таблице 1.1:&nbsp;</span></p>
+<p class=rvps3><span class=rvts6><br></span></p>
+<p class=rvps38><span class=rvts6>&nbsp;Таблица 1.1 – Распайка контактной группы AR5000</span></p>
+<div class=rvps24>
+<table border=1 cellpadding=4 cellspacing=-1 style="border-width: 0px; border-collapse: collapse;">
+ <tr valign=top>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>AR5000</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>9-ти контактный последовательный порт ПК</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>2</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>2</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>3</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>3</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>5</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>5 (земля)</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>7</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>7</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>8</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>8</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>AR5000</span></p>
+  </td>
+  <td width=298 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>25-ти контактный последовательный порт ПК</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>2</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>3</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>3</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>4</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>5</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>7 (земля)</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>7</span></p>
+  </td>
+  <td width=298 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>4</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=94 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>8</span></p>
+  </td>
+  <td width=298 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps23><span class=rvts6>5</span></p>
+  </td>
+ </tr>
+</table>
+</div>
+<p class=rvps3><span class=rvts6><br></span></p>
+<p class=rvps3><span class=rvts6>Чувствительность РПУ AR5000 в (мкВ) представлена в таблице.1.2.</span></p>
+<p class=rvps3><span class=rvts6>Универсальные возможности данного приемника позволяют его широко использовать в различных программно-аппаратных комплексах технического контроля, по ведению радио, радиотехнического и специального контроля и защиты.</span></p>
+<p class=rvps3><span class=rvts6><br></span></p>
+<p class=rvps3><span class=rvts7>Сканирующий приемник AR-8000</span></p>
+<p class=rvps3><span class=rvts6>Сканирующий приемник AR-8000 предназначен для решения широкого круга задач по обнаружению и контролю различных устройств, передающих информацию по радиоканалу в диапазоне от 500 кГц до 1.9 ГГц. Сканер, представленный на (рисунок 1.6), может быть подключен к компьютеру IBM PC для использования его под управлением программ радиомониторинга.</span></p>
+<p class=rvps2><span class=rvts4><br></span></p>
+<p class=rvps2><span class=rvts4>Технические характеристики</span><span class=rvts3>:</span></p>
+<ul style="text-indent: -1px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>частотный диапазон - 500 кГц - 1900 МГц;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>виды модуляции - NFM, WFM, AM, USB, LSB, CW;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>шаг перестройки - любое значение в диапазоне от 50 Гц до 999,995 кГц, кратное 50 Гц;</span></li>
+</ul>
+<p class=rvps23><span class=rvts6><br></span></p>
+<p class=rvps38><span class=rvts6>&nbsp; &nbsp;Таблица 1.2 - Чувствительность &nbsp;РПУ AR5000 &nbsp;в (мкВ)</span></p>
+<div class=rvps24>
+<table border=1 cellpadding=4 cellspacing=-1 style="border-width: 0px; border-collapse: collapse;">
+ <tr valign=top>
+  <td width=167 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps25><span class=rvts6>10 - 20 МГц&nbsp;</span></p>
+  </td>
+  <td width=393 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps25><span class=rvts6>- 0.56 AM 6 кГц фильтр 10 дБ сигнал/шум&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.25 SSB 3 кГц фильтр 10 дБ сигнал/шум</span></p>
+   <p class=rvps25><span class=rvts6>- 0.36 FM 6 кГц фильтр12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.40 FM 15 кГц фильтр 12дБ SINAD&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=167 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps25><span class=rvts6>90 - 150 МГц</span></p>
+  </td>
+  <td width=393 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps25><span class=rvts6>- 0.50 AM 6 кГц фильтр 10 дБ сигнал/шум&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.20 SSB 3 кГц фильтр 10 дБ сигнал/шум</span></p>
+   <p class=rvps25><span class=rvts6>- 0.25 FM 6 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.28 FM 15 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.50 FM 30 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.80 FM 110 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 1.12 FM 220 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=167 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps25><span class=rvts6>400 - 700 МГц</span></p>
+  </td>
+  <td width=393 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps25><span class=rvts6>- 0.56 AM 6 кГц фильтр 10 дБ сигнал/шум&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.23 SSB 3 кГц фильтр 10 дБ сигнал/шум</span></p>
+   <p class=rvps25><span class=rvts6>- 0.28 FM 6 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.32 FM 15 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.50 FM 30 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.80 FM 110 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 1.25 FM 220 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=167 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps25><span class=rvts6>1.6 - 2.6 ГГц</span></p>
+  </td>
+  <td width=393 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps25><span class=rvts6>- 0.36 AM 6 кГц фильтр 10 дБ сигнал/шум</span></p>
+   <p class=rvps25><span class=rvts6>- 0.14 SSB 3 кГц фильтр 10 дБ сигнал/шум</span></p>
+   <p class=rvps25><span class=rvts6>- 0.20 FM 6 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.22 FM 15 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.40 FM 30 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.63 FM 110 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+   <p class=rvps25><span class=rvts6>- 0.90 FM 220 кГц фильтр 12 дБ SINAD&nbsp;</span></p>
+  </td>
+ </tr>
+</table>
+</div>
+<p class=rvps26><span class=rvts3><br></span></p>
+<p class=rvps2><img width=135 height=191 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00007.png"></p>
+<p class=rvps2><span class=rvts3>Рисунок 1.6 - Сканирующий приемник AR-8000</span></p>
+<p class=rvps5><span class=rvts3><br></span></p>
+<ul style="text-indent: -1px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>организация памяти:&nbsp;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>каналы памяти - 20 банков по 50 каналов;&nbsp;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>каналы пропуска - 20 банков по 50 каналов;&nbsp;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>приоритетный канал – 1;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>НЧ выход 120 мВт (8 Ом);</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>скорость поиска / сканирования - около 30 каналов / секунду;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts3>чувствительность РПУ AR8000 в (мкВ) представлена в таблице&nbsp;1.3:&nbsp;</span></li>
+</ul>
+<p class=rvps16><span class=rvts3><br></span></p>
+<p><span class=rvts3>Таблица 1.3 - Чувствительность РПУ AR8000 в (мкВ)</span></p>
+<div class=rvps24>
+<table border=1 cellpadding=4 cellspacing=-1 style="border-width: 0px; border-collapse: collapse;">
+ <tr valign=top>
+  <td width=92 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>Диапазон, МГц</span></p>
+  </td>
+  <td width=93 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>NFM</span></p>
+  </td>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>WFM</span></p>
+  </td>
+  <td width=85 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>AM</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=92 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>2 -30&nbsp;</span></p>
+  </td>
+  <td width=93 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>1.5</span></p>
+  </td>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>-</span></p>
+  </td>
+  <td width=85 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>3</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=92 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>30 -1300</span></p>
+  </td>
+  <td width=93 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>0.35</span></p>
+  </td>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>1</span></p>
+  </td>
+  <td width=85 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>1</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=92 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>1300-1900</span></p>
+  </td>
+  <td width=93 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>3</span></p>
+  </td>
+  <td width=94 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>-</span></p>
+  </td>
+  <td width=85 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps27><span class=rvts3>-</span></p>
+  </td>
+ </tr>
+</table>
+</div>
+<p class=rvps5><span class=rvts3><br></span></p>
+<p class=rvps5><span class=rvts3>Состав:</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps28><span class=rvts3>сканер AR-8000;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps28><span class=rvts3>комплект аккумуляторов;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps28><span class=rvts3>сетевой адаптер / зарядное устройство;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps28><span class=rvts3>адаптер к автомобильной бортовой сети.</span></li>
+</ul>
+<p class=rvps29><span class=rvts13><br></span></p>
+<p class=rvps2><span class=rvts5>Портативный сканирующий радиоприемник AR - 3000A</span></p>
+<p class=rvps30><span class=rvts9><br></span></p>
+<p class=rvps3><span class=rvts12>Портативный сканирующий радиоприемник AR-3000А (рисунок&nbsp;1.7) - п</span><span class=rvts6>редназначен для решения широкого круга задач по обнаружению и контролю различных устройств, передающих информацию по радиоканалу в диапазоне от 100 кГц до 2036 МГц.&nbsp;</span></p>
+<p class=rvps23><span class=rvts6><br></span></p>
+<p class=rvps31><img width=165 height=138 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00008.jpg"></p>
+<p class=rvps31><span class=rvts9><br></span></p>
+<p class=rvps31><span class=rvts9>Рисунок 1.7 &nbsp;- Портативный сканирующий радиоприемник «AR-3000A»</span></p>
+<p class=rvps31><span class=rvts9><br></span></p>
+<p class=rvps3><span class=rvts6>Сканер имеет следующие режимы работы: настройка, поиск, программный поиск, занесение данных в каналы памяти, сканирование каналов памяти, приоритетный канал. AR-3000 может быть подключен (через СОМ-порт) к компьютеру IBM PC для использования его под управлением программ радиомониторинга.</span></p>
+<p class=rvps32><span class=rvts9><br></span></p>
+<p class=rvps31><span class=rvts11>Технические характеристики:</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps33><span class=rvts9>частотный рабочий диапазон – 100 кГц - 2036 кГц;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>режимы модуляции: NFM, WFM, AM, USV, LSV, CW, SSB, USB, LSB;&nbsp;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps33><span class=rvts9>тип приемника - супергетеродин с трехкратным преобразованием для USB/LSB/CW/AM/NFM и 4-х кратным для WFM;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps33><span class=rvts9>чувствительность РПУ AR3000А в (мкВ) представлена в табл.1.4:&nbsp;</span></li>
+</ul>
+<p class=rvps34><span class=rvts9><br></span></p>
+<p class=rvps39><span class=rvts9>Таблица 1.4 - Чувствительность РПУ AR3000А в (мкВ)</span></p>
+<div class=rvps24>
+<table width=419 border=1 cellpadding=4 cellspacing=-1 style="border-width: 0px; border-collapse: collapse;">
+ <tr valign=top>
+  <td width=87 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>Диапазон, МГц</span></p>
+  </td>
+  <td width=77 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps31><span class=rvts9>NFM</span></p>
+  </td>
+  <td width=63 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps31><span class=rvts9>WFM</span></p>
+  </td>
+  <td width=53 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps31><span class=rvts9>AM</span></p>
+  </td>
+  <td width=70 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps31><span class=rvts9>SSB/CW</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=87 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps35><span class=rvts9>100 кГц – 2 МГц</span></p>
+  </td>
+  <td width=77 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>-</span></p>
+  </td>
+  <td width=63 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>-</span></p>
+  </td>
+  <td width=53 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>3.2</span></p>
+  </td>
+  <td width=70 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>1</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=87 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps35><span class=rvts9>2 МГц – 1,8 ГГц</span></p>
+  </td>
+  <td width=77 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>0.35</span></p>
+  </td>
+  <td width=63 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>1</span></p>
+  </td>
+  <td width=53 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>1.0</span></p>
+  </td>
+  <td width=70 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>0.25</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=87 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps35><span class=rvts9>1,8 ГГц-2,0 ГГц</span></p>
+  </td>
+  <td width=77 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>1.25</span></p>
+  </td>
+  <td width=63 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>3</span></p>
+  </td>
+  <td width=53 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>3</span></p>
+  </td>
+  <td width=70 valign=middle style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts3>0.75</span></p>
+  </td>
+ </tr>
+</table>
+</div>
+<p class=rvps33><span class=rvts9><br></span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps33><span class=rvts9>избирательность приемника: 2.4 кГц/-6дБ; 4.5 кГц/-60 дБ (USB / LSB / CW); 12 кГц/-6 дБ, 25 кГц/-70 дБ (AM / NFM); 180 кГц / -6 дБ; 800 кГц / -50 дБ (WFM);</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps33><span class=rvts9>шаг перестройки - любое значение кратное 50 Гц в диапазоне 50 Гц – 999,995 кГц;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps33><span class=rvts9>организация памяти: каналы памяти - 4 банка по 100 каналов приоритетный канал - 1-й в каждом банке;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps33><span class=rvts9>скорость поиска / сканирования - около 50 каналов/секунду;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>изменяемая пауза - 1 - 60 секунд;&nbsp;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps6><span class=rvts3>блокируемые частоты - 100 для каждого поиска (всего 400);</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps33><span class=rvts9>питание - 12 - 14 В.&nbsp;</span></li>
+</ul>
+<p class=rvps36><span class=rvts11>Состав:</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 60px; list-style-position: outside;">
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps37><span class=rvts9>сканер AR-3000;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps37><span class=rvts9>сетевой адаптер;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps37><span class=rvts9>автомобильный адаптер;</span></li>
+ <li style="margin-left: 0px; text-indent: 0px" class=rvps37><span class=rvts9>антенна.</span></li>
+</ul>
+<p class=rvps36><span class=rvts10>Возможность подключения приемника к персональному компьютеру по RS-232 порту, позволяет &nbsp;применять AR 3000A в составе различных программно-аппаратных комплексов.</span></p>
+<p class=rvps5><span class=rvts3>Приемник может работать как от сети переменного тока 220&nbsp;В, так и от бортовой сети автомобиля (для чего в комплекте поставки предусмотрен разъем подключения через стандартное гнездо «прикуривателя»).&nbsp;</span></p>
+<p class=rvps36><span class=rvts9>Кроме этого имеется ЖК-дисплей с подсветкой, часы, внутренние аккумуляторы питания для часов и памяти настройки, возможность подключения головных телефонов (на наружной панели), гнездо аудиовыхода (для подключения записывающего устройства, на задней панели приемника), возможность подключения различного вида и назначения антенн, возможность подключения внешнего специального блока спектрального анализа сигналов, стандартный разъем для соединения с компьютером.</span></p>
+<p class=rvps36><span class=rvts9>Существует целое семейство дополнительных приспособлений и устройств, которые могут применяться с AR 3000A и приобретаются дополнительно: от кронштейнов крепления в салоне автомобиля, до блока спектрального анализа.</span></p>
+<p class=rvps9><span class=rvts3><br></span></p>
+<p class=rvps9><span class=rvts2><br></span></p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 11pt;
+ font-family: 'Calibri';
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts4
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts5
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts6
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts7
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts8
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts9
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts10
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts11
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts12
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts13
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts14
+{
+ font-size: 9pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ vertical-align: super;
+ text-decoration: none;
+}
+span.rvts15
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: underline;
+}
+span.rvts16
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: underline;
+}
+span.rvts17
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps2
+{
+ text-align: center;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps3
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps4
+{
+ text-align: left;
+ text-indent: -19px;
+ page-break-inside: avoid;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 47px;
+}
+.rvps5
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps6
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps7
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps8
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 0px;
+}
+.rvps9
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 3px 0px 0px;
+}
+.rvps10
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 4px 0px 0px;
+}
+.rvps11
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -1px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps12
+{
+ text-align: left;
+ text-indent: 48px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps13
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps14
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps15
+{
+ text-align: center;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps16
+{
+ text-align: left;
+ text-indent: 48px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps17
+{
+ text-align: center;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 2px 0px 0px;
+}
+.rvps18
+{
+ text-align: left;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 2px 0px 0px;
+}
+.rvps19
+{
+ text-align: center;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 0px;
+}
+.rvps20
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 0px;
+}
+.rvps21
+{
+ text-align: center;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps22
+{
+ text-align: center;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 4px 0px 0px;
+}
+.rvps23
+{
+ text-align: center;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps24
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 12px;
+}
+.rvps25
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps26
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -12px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 60px;
+}
+.rvps27
+{
+ text-align: center;
+ text-indent: 4px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps28
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps29
+{
+ text-align: left;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps30
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps31
+{
+ text-align: center;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps32
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 26px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps33
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps34
+{
+ text-align: left;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps35
+{
+ text-align: center;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps36
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps37
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 60px;
+}
+.rvps38
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps39
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+/* ========== Lists ========== */
+.list0 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list1 {text-indent: 0px; padding: 0; margin: 0 0 0 99px; list-style-position: outside; list-style-type: circle;}
+.list2 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: square;}
+.list3 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: disc;}
+.list4 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: circle;}
+.list5 {text-indent: 0px; padding: 0; margin: 0 0 0 72px; list-style-position: outside; list-style-type: circle;}
+.list6 {text-indent: -1px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list7 {text-indent: 0px; padding: 0; margin: 0 0 0 96px; list-style-position: outside; list-style-type: circle;}
+.list8 {text-indent: 0px; padding: 0; margin: 0 0 0 60px; list-style-position: outside;}
+.list9 {text-indent: 0px; padding: 0; margin: 0 0 0 84px; list-style-position: outside; list-style-type: circle;}
+</css>
+    </chapter_8>
+    <chapter_9 number="9" guid="0000FCE915BF4BBE8810D5A168CEFE2E">
+      <guid>0000FCE915BF4BBE8810D5A168CEFE2E</guid>
+      <title></title>
+      <index>1106767083</index>
+      <level>2</level>
+      <number>9</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+        
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_9>
+    <chapter_10 number="10" guid="0000FCFA591744899D2B7DA818A4593E">
+      <guid>0000FCFA591744899D2B7DA818A4593E</guid>
+      <title>Способы измерения параметров сигналов РЭС</title>
+      <index>1687382921</index>
+      <level>1</level>
+      <number>10</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <h2 class=rvps10><a name="_Toc444183994"></a><span class=rvts0><span class=rvts6>1.5. Способы измерения параметров сигналов РЭС</span></span></h2>
+<p class=rvps7><span class=rvts3><br></span></p>
+<p class=rvps5><span class=rvts7>При проверке соответствия измеренных параметров источников ра­диоизлучения следует руководствоваться нормативными требованиями, приведенными в рекомендациях МСЭ, государственных и отраслевых стандартах. Обязательному измерению подлежат следующие парамет­ры:</span></p>
+<ul style="text-indent: -49px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;">
+ <li style="margin-left: 0px" class=rvps11><span class=rvts33>центральная частота;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts33>отклонение центральной частоты излучения от разрешенного но­минального значения;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts33>контрольная ширина полосы частот на уровне —30 дБ;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts33>уровень внеполосных излучений на заданных уровнях;</span></li>
+ <li style="margin-left: 0px" class=rvps11><span class=rvts33>напряженность поля (дБмкВ/м).</span></li>
+</ul>
+<p class=rvps5><span class=rvts7>Кроме того, дополнительно могут измеряться параметры модуляции, например коэффициент амплитудной модуляции, девиация частоты, разнос между поднесущими частотами и т.д.</span></p>
+<p class=rvps5><span class=rvts7>Требования к точности измерения полосы частот средствами радиоконтроля должно обеспечивать измерение ши­рины полосы частот принимаемых сигналов до 300 кГц с погрешностью не более ±5 % и до 30&nbsp;МГц с погрешностью не более &nbsp;±10 % &nbsp;на уров­нях: -3, -6, -26, -30, -40, &nbsp;-50, -60 и -80 дБ относительно за­данного (исходного) уровня 0 дБ.</span></p>
+<p class=rvps12><span class=rvts30><br></span></p>
+<p><span class=rvts2>Таблица 1.5 - Погрешность измерения частоты автоматизированным оборудованием станций радиоконтроля</span></p>
+<div class=rvps13>
+<table border=1 cellpadding=4 cellspacing=-1 style="border-width: 0px; border-collapse: collapse;">
+ <tr valign=top>
+  <td width=210 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts2>Полоса частот (исключая нижний и включая верхний пределы), МГц</span></p>
+  </td>
+  <td width=190 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts2>Относительная погрешность измерения частоты</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=210 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts2>25...29,7</span></p>
+  </td>
+  <td width=190 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts32>2-10</span><span class=rvts31>-6</span></p>
+  </td>
+ </tr>
+ <tr valign=top>
+  <td width=210 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts2>29,7...3000</span></p>
+  </td>
+  <td width=190 valign=top style="border-width : 1px; border-color: #000000; border-style: solid; padding: 0px 7px;">
+   <p class=rvps2><span class=rvts32>2-10</span><span class=rvts31>-6</span></p>
+  </td>
+ </tr>
+</table>
+</div>
+<p class=rvps14><span class=rvts30><br></span></p>
+<p class=rvps5><span class=rvts7>Требования к допустимому отклонению мощности радиопередатчиков от номинального значения, должно обеспечивать отклонение параметров радиопередатчиков абонентских радиостанций с аналоговой модуляцией не более ±1,5 дБ от номи­нального значения </span><span class=rvts11>при </span><span class=rvts7>нормальных условиях и (+2) (—3) дБ при экс­тремальных условиях.</span></p>
+<p class=rvps5><span class=rvts7>Измерение напряженности </span><span class=rvts11>поля </span><span class=rvts7>для </span><span class=rvts11>частот </span><span class=rvts7>выше 30 МГц </span><span class=rvts11>должно </span><span class=rvts7>проводиться </span><span class=rvts11>с </span><span class=rvts7>точностью ±3 </span><span class=rvts11>дБ</span><span class=rvts7>.</span></p>
+<p class=rvps8><span class=rvts2><br></span></p>
+<p class=rvps7><span class=rvts3>Измерение частоты</span></p>
+<p class=rvps8><span class=rvts2><br></span></p>
+<p class=rvps5><span class=rvts5>Существует несколько различных методов измерения частоты ра­диосигналов, принимаемых из эфира. Все они используют сравнение с частотным эталоном.</span></p>
+<p class=rvps5><span class=rvts5>В методе биений изменением опорной частоты (полученной от эта­лонного источника с помощью синтезатора частот) добиваются совпа­дения измеряемой и опорной частоты, совпадение определяют по на­личию разностных биений на нулевой частоте.</span></p>
+<p class=rvps5><span class=rvts5>Измерение с использованием сдвига частоты отличается тем, что получают не нулевые биения, а заранее определенную разность двух частот.</span></p>
+<p class=rvps5><span class=rvts5>В методе Лиссажу близость частот оценивается по вращению эл­липса на экране осциллографа, сравниваемые колебания при этом по­даются на входы вертикальной и горизонтальной развертки.</span></p>
+<p class=rvps5><span class=rvts5>Частотомеры измеряют число периодов сигнала за определенный промежуток времени, который формируется также из эталонного ко­лебания.</span></p>
+<p class=rvps5><span class=rvts5>Частотные дискриминаторы (частотные детекторы) определяют от­клонение частоты сигнала от некоторой центральной частоты, которая, в свою очередь, калибруется по эталонной. Измерение частоты может проводиться и с помощью аналогового анализатора спектра, в этом случае происходит выделение спектральных составляющих при пере­стройке эталонного генератора качающейся частоты.</span></p>
+<p class=rvps5><span class=rvts5>Метод измерения мгновенной частоты (instantaneous frequency measurement — IFM) и метод быстрого преобразования Фурье (БПФ) (fast Fourier transform — FFT) реализованы на основе цифровых спо­собов обработки сигналов. Но и при этом есть привязка к опорному эталонному колебанию.</span></p>
+<p class=rvps5><span class=rvts5>Методы с применением цифровой обработки обеспечивают боль­шие точность и скорость измерений при стабильных результатах, по­зволяя одновременно выполнять усреднение и другие статистические операции. Именно они наиболее подходят для автоматизированных аппаратно-программных комплексов радио и радиотехнического контроля.</span></p>
+<p class=rvps5><span class=rvts5><br></span></p>
+<p class=rvps15><span class=rvts3>Метод измерения мгновенной частоты</span></p>
+<p class=rvps16><span class=rvts2><br></span></p>
+<p class=rvps5><span class=rvts5>Мгновен­ная частота сигнала является скоростью изменения (производной) его фазы. При небольших интервалах наблюдения для мгновенной частоты справедлива следующая запись:</span></p>
+<p class=rvps5><span class=rvts5><br></span></p>
+<p class=rvps27><img width=126 height=28 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00009.png"><img width=126 height=28 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00010.png"><span class=rvts5> ,&nbsp;</span><span class=rvts5> &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=rvts5>(1.1)</span></p>
+<p class=rvps27><span class=rvts5><br></span></p>
+<p class=rvps3><span class=rvts2>где Ф</span><span class=rvts15>(t)</span><span class=rvts2> — полная фаза сигнала; </span><span class=rvts29>D</span><span class=rvts15>t</span><span class=rvts2> — временной интервал, обычно ме­жду соседними &nbsp;отсчетами сигнала.</span></p>
+<p class=rvps5><span class=rvts5>В случае гармонического сигнала определение мгновенной частоты можно свести к последовательному измерению уровня сигнала в близ­кие дискретные моменты времени (последовательному взятию трех от­счетов) и решению системы тригонометрических уравнений:</span></p>
+<p class=rvps5><span class=rvts5><br></span></p>
+<p class=rvps26><img width=249 height=61 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00011.png"><img width=249 height=61 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00012.png"><span class=rvts5>,</span><span class=rvts5> &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=rvts5>(1.2)</span></p>
+<p class=rvps18><span class=rvts9><br></span></p>
+<p class=rvps18><span class=rvts9>где </span><span class=rvts28>t</span><span class=rvts27>1, </span><span class=rvts28>t</span><span class=rvts27>2</span><span class=rvts26>, </span><span class=rvts28>t</span><span class=rvts27>3</span><span class=rvts26> </span><span class=rvts9>— моменты взятия отсчетов; </span><img width=18 height=15 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00013.png"><img width=18 height=15 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00014.png"><span class=rvts9> — начальная фаза; </span><span class=rvts26>А </span><span class=rvts9>— ам­плитуда колебания. Мгновенная частота при этом выражается соотно­шением:</span></p>
+<p class=rvps18><span class=rvts9><br></span></p>
+<p class=rvps28><img width=201 height=15 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00015.png"><img width=201 height=15 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00016.png"><span class=rvts9>,</span><span class=rvts9> &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=rvts9>(1.3)</span></p>
+<p class=rvps19><span class=rvts9><br></span></p>
+<p class=rvps18><span class=rvts9><br></span></p>
+<p class=rvps5><span class=rvts7>Этот результат является строгим только для чистого синусоидального колебания. В общем случае при наличии шумов и модуляции следует опреде­лять мгновенную частоту комплексного сигнала:</span></p>
+<p class=rvps27><span class=rvts7><br></span></p>
+<p class=rvps27><img width=108 height=16 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00017.png"><img width=108 height=16 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00018.png"><span class=rvts7> &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=rvts7>(1.4)</span></p>
+<p class=rvps17><span class=rvts7><br></span></p>
+<p class=rvps3><span class=rvts18>где </span><span class=rvts25>s</span><span class=rvts18>(t)- исходный сигнал; </span><img width=128 height=28 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00019.png"><img width=128 height=28 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00020.png"><span class=rvts18> - </span><span class=rvts2>исходный сигнал, преобразованный по Гильберту (что эквивалентно прохождению сигна­ла через идеальный фазовращатель со сдвигом на </span><img width=21 height=18 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00021.png"><img width=21 height=18 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00022.png"><span class=rvts2>); </span><span class=rvts15>j</span><span class=rvts2> – мнимая единица. Мгновенная частота в этом случае выражается как:</span></p>
+<p class=rvps4><span class=rvts2><br></span></p>
+<p class=rvps29><img width=163 height=31 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00023.png"><img width=163 height=31 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00024.png"><span class=rvts18>&nbsp;</span><span class=rvts2> &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=rvts2>(1.5)</span></p>
+<p class=rvps5><span class=rvts7><br></span></p>
+<p class=rvps5><span class=rvts7>Дискретное преобразование Гильберта может быть осуществлено на основе рекурсивных и нерекурсивных цифровых фильтров, а также на основе разложения сигнала в ряд Котельникова.</span></p>
+<p class=rvps5><span class=rvts7>Полученные значения мгновенной частоты должны усредняться с применением методов, дающих устойчивую оценку. Время измерения должно быть достаточным для получения необходимой точности.</span></p>
+<p class=rvps5><span class=rvts7>Общий размер сигнальной выборки, по которой будет проводиться определение частоты, зависит также от вида сигнала, отношения сиг­нал/шум и решаемых при измерении задач (обеспечение максималь­ной точности, измерение кратковременной нестабильности излучения передатчика, измерение параметров модуляции, одновременные изме­рения нескольких характеристик).</span></p>
+<p class=rvps5><span class=rvts7>Так, при оценке мгновенной частоты сигнала сотовой связи стан­дарта GSМ выборка ограничена длительностью передачи элементарно­го пакета данных 577 мкс (при наличии синхронизации). Для других систем связи с временным разделением доступа длительность выборки лежит в пределах 5...10 мс. Для рядовых измерений частоты обычных сигналов с повышенной и нормальной скоростями рекомендуются дли­тельности выборки 200 мс и 1 с соответственно.</span></p>
+<p class=rvps5><span class=rvts7>Рекомендуется усреднять результаты измерений в течение 1 с, од­нако более надежно измерение не менее 2...3 мин, а если измерение частоты вещательных ЧМ станций проводится совместно с определе­нием девиации частоты, то тогда рекомендуемое минимальное время наблюдения составляет 15 мин.</span></p>
+<p class=rvps5><span class=rvts7>Для увеличения точности измерения частоты может проводиться предварительная фильтрация сигнала в полосе, согласованной с ши­риной его спектра, или даже в узкой полосе около несущей или поднесущей.</span></p>
+<p class=rvps5><span class=rvts7>Метод IFM не применим к сигналам с однополосной модуляци­ей (кроме частного случая модуляции гармоническим колебанием) и сигналам СОFDM. В этом случае оценку центральной частоты полу­чают на основе БПФ.</span></p>
+<p class=rvps5><span class=rvts24>Быстрое преобразование Фурье </span><span class=rvts7>(БПФ) — это метод получения спектра сигнала на основе вычисления дискретного преобразования Фурье (ДПФ) с помощью эффективных алгоритмов, в частности алго­ритмов прореживания по времени или по частоте.</span></p>
+<p class=rvps5><span class=rvts7>Обычное дискретное преобразование Фурье, требующее N</span><span class=rvts23>2</span><span class=rvts7> ариф­метических операций, заменяется рекурсивной процедурой с числом операций </span><span class=rvts21>N</span><span class=rvts7> log</span><span class=rvts22>2</span><span class=rvts7> </span><span class=rvts21>N</span><span class=rvts7> за счет исключения повторений. Для работы ал­горитмов БПФ требуется, чтобы длина исходного ряда данных — чис­ло отсчетов сигнальной выборки </span><span class=rvts20>N</span><span class=rvts8> </span><span class=rvts7>— была кратна степени 2, хотя существуют и другие подходы. В то же время длина сигналь­ной выборки должна быть достаточной для получения требуемого спек­трального разрешения</span></p>
+<p class=rvps30><img width=70 height=28 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00025.png"><img width=70 height=28 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00026.png"><span class=rvts7>&nbsp;</span><span class=rvts7> &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=rvts7>(1.6)</span></p>
+<p class=rvps20><span class=rvts18>где </span><span class=rvts17>F</span><span class=rvts16>дискр</span><span class=rvts19> </span><span class=rvts18>— частота взятия отсчетов выборки, которая по теореме Ко-тельникова должна превышать как минимум в 2 раза максимальную ча­стоту преобразуемого сигнала (ширину исследуемой полосы при пере­носе к нулевой частоте). Подробное изучение спектра предполагает наличие спектральной линзы (ZOOM FFT) </span><span class=rvts2>на основе увеличения дли­ны выборки при сохранении полосы анализа или уменьшения анали­зируемой полосы и соответствующего уменьшения </span><span class=rvts17>F</span><span class=rvts16>дискр&nbsp;</span><span class=rvts2> при той же длине &nbsp;выборки.</span></p>
+<p class=rvps5><span class=rvts5>Выражение для спектра, полученного на основе ДПФ, имеет вид:</span></p>
+<p class=rvps5><span class=rvts5><br></span></p>
+<p class=rvps26><img width=257 height=29 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00027.png"><img width=257 height=29 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00028.png"><span class=rvts5>,&nbsp;</span><span class=rvts5> &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=rvts5>(1.7)</span></p>
+<p class=rvps20><span class=rvts2><br></span></p>
+<p class=rvps20><span class=rvts2>где </span><span class=rvts15>m</span><span class=rvts2> — номер спектральной составляющей; </span><span class=rvts15>n</span><span class=rvts2>— номер элемента сиг­нальной выборки; </span><img width=67 height=31 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00029.png"><img width=67 height=31 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00030.png"><span class=rvts2>; Т — время анализа.</span></p>
+<p class=rvps5><span class=rvts5>Для устранения краевых эффектов искажения спектра из-за конеч­ной длины выборки применяется умножение ее отсчетов на те или иные оконные функции (функции взвешивания): Ханна, Хэмминга, Натолла, Барлета, Блэкмана, Блэкмана-Харриса и т.д.</span></p>
+<p class=rvps5><span class=rvts5>Частота сигнала в данном методе измерения оценивается по мак­симальной спектральной составляющей. В случае определения несу­щей частоты ЧМ и частот отжатия/нажатия ЧМн сигналов, а также при невысоких отношениях сигнал/шум, как правило, требуется усреднение спектра, т.е. вычисление средних значений амплитуд спектральных со­ставляющих для нескольких текущих спектров. Для широкополосных ЧМ сигналов для снижения индекса модуляции дополнительно может использоваться деление сигнала промежуточной частоты (до 200 раз) с последующей поправкой на коэффициент деления. Для сигналов, не имеющих несущей (COFDM, LSB/USB), значение центральной частоты вычисляется как среднеарифметическое крайних частот полосы, полу­ченного &nbsp;методом БПФ спектра.</span></p>
+<p class=rvps6><span class=rvts2><br></span></p>
+<p class=rvps6><span class=rvts2><br></span></p>
+<p class=rvps7><span class=rvts3>Измерение ширины спектра</span></p>
+<p class=rvps8><span class=rvts2><br></span></p>
+<p class=rvps5><span class=rvts5>Существуют два основных мето­да оценки ширины спектра радиосигналов: отношения мощностей, или (</span><span class=rvts13>β</span><span class=rvts5>/2, и измерение по уровню X дБ.</span></p>
+<p class=rvps5><span class=rvts5>В первом случае ширина спектра полосы частот определяется как ширина занимаемой полосы частот радиоизлучения (occupied band width — OBW), за пределами которой излучается заданная часть (</span><span class=rvts13>β</span><span class=rvts5>%) общей средней мощности радиопередатчика. Обычно излучаемые мощности за нижним и верхним пределами занимаемой полосы пола­гают одинаковыми (каждая составляет половину заданной части сред­ней &nbsp;мощности &nbsp;</span><span class=rvts14>(</span><span class=rvts13>β</span><span class=rvts5>/2 %). </span><span class=rvts7>Значение </span><span class=rvts10>β</span><span class=rvts7>/2 выбирается равным 0,5 %, если для соответствующего класса излучений нет дополнительных реко­мендаций.</span></p>
+<p class=rvps5><span class=rvts7>На практике область частот, где непосредственно определяется мощность, нередко содержит фоновые помехи, что снижает точность измерений. Улучшить результаты измерения можно, не учитывая те участки спектра, где спектральная плотность мощности сигнала не пре­вышает уровня шума на Y дБ (как правило, Y = 6 дБ), там ее зна­чение приравнивается нулю.</span></p>
+<p class=rvps5><span class=rvts7>Для получения оценки ширины занимаемой полосы частот могут ис­пользоваться цифровые методы обработки сигналов, в том числе БПФ. В этом случае вначале по спектральным составляющим (суммировани­ем квадратов их амплитуд с последующим делением на 2 или интегри­рованием спектральной плотности мощности) вычисляется полная мощ­ность сигнала. Нижняя и верхняя частоты спектра сигнала определяют­ся по уровню шумов. Затем таким же образом вычисляется мощность в полосе, для которой нижняя частота спектра фиксируется как ниж­няя граница, а верхняя граница постепенно увеличивается до тех пор, пока не будут получены значения, близкие к значению </span><span class=rvts12>β</span><span class=rvts7>/2 % полной мощности. Последующая интерполяция служит для более точной оцен­ки верхней частоты полосы, в которой сосредоточена заданная часть средней мощности. Операция повторяется для верхней части спектра, ширина занимаемой полосы частот будет равна разности нижней гра­ницы верхней полосы и верхней границы нижней полосы частот.</span></p>
+<p class=rvps5><span class=rvts7>Данный метод достаточно точно работает даже при относительно небольших соотношениях сигнал/шум (15...20 дБ превышения пиковых значений над шумом) и имеет малую чувствительность к спектральному разрешению при наличии более 100 спектральных линий в полосе сиг­нала. Метод позволяет получать хорошие результаты при исследовании сигналов с любой цифровой модуляцией. В последнем случае рекомен­дуется для определения ширины занимаемой полосы частот использо­вать основной лепесток (до первого пересечения с уровнем шума), а время анализа выбирать как время передачи 1000 символов. При рассмотрении нестационарных сигналов (АМ, ОБП и ЧМ с модуляцией речевым сигналом) для получения состоятельной оценки ширины спек­тра</span><span class=rvts5> </span><span class=rvts7>следует накапливать (усреднять) спектральные данные достаточно продолжительное время. Для оценки максимальной полосы сигналов ЧМ вещания выбираются передачи с широким спектром модулирующе­го сигнала, например передачи симфонической музыки.</span></p>
+<p class=rvps5><span class=rvts7>Если ширина полосы исследуемых сигналов превышает наиболь­шую полосу одновременной обработки аппаратно-программного ком­плекса, то для оценки спектра сигнала допустима «сшивка» с последу­ющим усреднением спектральных данных, полученных последовательно в смежных полосах при быстрой перестройке приемника.</span></p>
+<p class=rvps5><span class=rvts7>Излучение будет оптимальным с точки зрения экономии спектра, когда его ширина занимаемой полосы равняется необходимой ширине полосы для данного класса излучения, т.е. ширине такой полосы ча­стот, которая достаточна при данном классе излучения для обеспече­ния передачи сообщений с необходимой скоростью и качеством при определенных условиях (рисунок 1.8).</span></p>
+<p class=rvps5><span class=rvts7>При наличии помех и известном типе сигнала предпочтительнее (за исключением некоторых сигналов с цифровой модуляцией) метод измерения ширины полосы по уровню </span><span class=rvts8>X </span><span class=rvts7>дБ. В этом случае за ширину полосы частот излучения принимается зона, за пределами которой лю­бая дискретная составляющая спектра или непрерывная спектральная плотность мощности измеряемого сигнала, по крайней мере, на </span><span class=rvts8>X&nbsp;</span><span class=rvts7>дБ меньше предварительно заданного опорного уровня 0 дБ.</span></p>
+<p class=rvps5><span class=rvts7>Данный метод может быть использован для измерения ширины кон­трольной полосы частот, под которой понимается частотная зона, за пределами которой любая составляющая спектра меньше уровня, при­равненного к 0 дБ, на 30 дБ. При использовании испытательных сигна­лов, определенных для данного класса излучений, и установке нулево­го уровня в соответствии с рекомендациями нормативных документов контрольная полоса частот не должна превышать более чем на 20 % нормируемую на тех же уровнях полосу частот.</span></p>
+<p class=rvps5><span class=rvts7>Для сравнения результатов измерения различными станциями ра­диоконтроля Бюро радиосвязи МСЭ рекомендует как временную нор­му проведение измерений по уровню —26 дБ и применение поправоч­ных коэффициентов </span><img width=11 height=17 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00031.png"><span class=rvts11> </span><span class=rvts7>для оценки необходимой полосы частот, хотя для отдельных классов излучения могут применяться и конкретные уровни </span><span class=rvts8>X&nbsp;</span><span class=rvts7>дБ (рисунок 1.9). Для некоторых сигналов уровни, которые дают оценки полосы, близкие к ширине занимаемой полосы частот при &nbsp;</span><span class=rvts10>β</span><span class=rvts8>&nbsp;</span><span class=rvts7>=&nbsp;0,5 %, установлены эмпирически.&nbsp;</span></p>
+<p class=rvps5><span class=rvts7>Установка нулевого уровня, относительно которого при использо­вании метода </span><span class=rvts8>X </span><span class=rvts7>дБ выполняются отсчеты сигналов, зависит от кон­кретного класса измеряемого излучения. Рекомендации по этой уста­новке содержатся в ГОСТ 50016-92. Совместимость РЭС. Установка может осуществляться по уровню:&nbsp;</span></p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 47px; list-style-position: outside;">
+ <li style="margin-left: 0px" class=rvps21><span class=rvts7>немодулированной (неманипулированной) несущей (например, для сигналов ЧМ вещания;</span></li>
+ <li style="margin-left: 0px" class=rvps21><span class=rvts7>ЧМн сигналов;</span></li>
+ <li style="margin-left: 0px" class=rvps21><span class=rvts7>АМ те­леграфных излучений);&nbsp;</span></li>
+ <li style="margin-left: 0px" class=rvps21><span class=rvts7>немодулированной поднесущей (АМ фототеле­граф);&nbsp;</span></li>
+ <li style="margin-left: 0px" class=rvps21><span class=rvts7>максимальной составляющей спектра (импульсное немодулированное излучение);&nbsp;</span></li>
+ <li style="margin-left: 0px" class=rvps21><span class=rvts7>по максимальному уровню огибающей спектра в пределах боковой полосы частот (например, для сигналов АМ веща­ния, однополосной телефонии).</span></li>
+</ul>
+<p class=rvps22><span class=rvts7><br></span></p>
+<p class=rvps9><img width=392 height=123 alt="" style="padding : 1px;" src="media/0000FC1993D84A7598782F45B03EC04B/img_00032.png"></p>
+<div class=rvps24>
+<table border=0 cellpadding=4 cellspacing=0 style="border-width: 0px; border-spacing: 0px; margin: 0px auto;">
+ <tr valign=top>
+  <td width=171 valign=top style="padding: 0px 7px;">
+   <p class=rvps23><span class=rvts9>Рисунок 1.8 – Определение ширины занимаемой полосы частот</span></p>
+  </td>
+  <td width=200 valign=top style="padding: 0px 7px;">
+   <p class=rvps23><span class=rvts9>Рисунок 1.9 - Определение ширины полосы частот по методу X дБ</span></p>
+  </td>
+ </tr>
+</table>
+</div>
+<p class=rvps25><span class=rvts9><br></span></p>
+<p class=rvps5><span class=rvts7>Данный метод измерения ширины полосы реализуется как прямым способом (фильтровым), так и на базе цифровых методов (БПФ). Основ­ная трудность при исследовании реальных эфирных сигналов заключа­ется в получении значения нулевого уровня. В частности, для получения уровня немодулированной несущей могут быть использованы методы замещения (с помощью дополнительного генератора), пикового детек­тора и расчета по аналитическим соотношениям. При использовании БПФ этот уровень можно получить также при длительном накоплении спектра (максимальных текущих спектральных значений). Так, в случае ЧМ вещательного сигнала при попадании в период наблюдения пауз между отдельными передачами фактически будет фиксироваться уро­вень немодулированной несущей, с другой стороны, длительное накоп­ление может зафиксировать моменты с модуляцией звуковым сигна­лом с максимально широким спектром и соответственно максималь­ную ширину радиосигнала.</span></p>
+<p class=rvps5><span class=rvts7>Обычно в программном обеспечении алгоритм измерений позво­ляет устанавливать нулевой уровень двумя способами: автоматически или вручную. Если выбран автоматический способ, то нулевой уровень устанавливается автоматически с заданным смещением относительно максимума спектра в измерительной зоне. Если смещение равно 0 дБ, то нулевой уровень будет соответствовать максимальной составляющей спектра.</span></p>
+<p class=rvps5><span class=rvts7>В специальном программном обеспечении средств Р и РТК &nbsp;разрешено за­давать произвольное количество уровней </span><span class=rvts8>X </span><span class=rvts7>дБ, на которых одновре­менно измеряется ширина полосы частот. Однако по умолчанию измерения проводятся по уровню:-3,-10,-20,-30,-40,-50,и -60 дБ.</span></p>
+<p class=rvps5><span class=rvts4><br></span></p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 11pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 11pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts4
+{
+ font-size: 10pt;
+ font-family: 'Calibri';
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts5
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts6
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts7
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts8
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ letter-spacing: 1px;
+ text-decoration: none;
+}
+span.rvts9
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts10
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts11
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts12
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts13
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts14
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts15
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts16
+{
+ font-size: 9pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ letter-spacing: 1px;
+ vertical-align: sub;
+ text-decoration: none;
+}
+span.rvts17
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ letter-spacing: 1px;
+ text-decoration: none;
+}
+span.rvts18
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts19
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ letter-spacing: 1px;
+ text-decoration: none;
+}
+span.rvts20
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ letter-spacing: 1px;
+ text-decoration: none;
+}
+span.rvts21
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts22
+{
+ font-size: 9pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ vertical-align: sub;
+ text-decoration: none;
+}
+span.rvts23
+{
+ font-size: 9pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ vertical-align: super;
+ text-decoration: none;
+}
+span.rvts24
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts25
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts26
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ letter-spacing: 1px;
+ text-decoration: none;
+}
+span.rvts27
+{
+ font-size: 9pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ letter-spacing: 1px;
+ vertical-align: sub;
+ text-decoration: none;
+}
+span.rvts28
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ letter-spacing: 1px;
+ text-decoration: none;
+}
+span.rvts29
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts30
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts31
+{
+ font-size: 9pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ vertical-align: super;
+ text-decoration: none;
+}
+span.rvts32
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts33
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 24px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps2
+{
+ text-align: center;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps3
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps4
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps5
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps6
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 48px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps7
+{
+ text-align: center;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 3px 0px 0px;
+}
+.rvps8
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 3px 0px 0px;
+}
+.rvps9
+{
+ text-align: center;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps10
+{
+ text-align: left;
+ text-indent: -19px;
+ page-break-inside: avoid;
+ page-break-after: avoid;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 47px;
+}
+.rvps11
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: -49px;
+ widows: 2;
+ orphans: 2;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 48px;
+}
+.rvps12
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 26px;
+ widows: 2;
+ orphans: 2;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 1px;
+}
+.rvps13
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 4px;
+}
+.rvps14
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 26px;
+ widows: 2;
+ orphans: 2;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 2px;
+}
+.rvps15
+{
+ text-align: center;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps16
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 9px 0px 0px;
+}
+.rvps17
+{
+ text-align: right;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps18
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ widows: 2;
+ orphans: 2;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 1px;
+}
+.rvps19
+{
+ text-align: right;
+ text-indent: 24px;
+ widows: 2;
+ orphans: 2;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 1px;
+}
+.rvps20
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 24px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps21
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 47px;
+}
+.rvps22
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 23px;
+}
+.rvps23
+{
+ text-align: center;
+ text-indent: 24px;
+ widows: 2;
+ orphans: 2;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 0px;
+}
+.rvps24
+{
+ text-align: center;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 22px;
+}
+.rvps25
+{
+ text-align: justify;
+ text-align-last: auto;
+ text-indent: 47px;
+ widows: 2;
+ orphans: 2;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 0px;
+}
+.rvps26
+{
+ text-align: center;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps27
+{
+ text-align: center;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps28
+{
+ text-align: center;
+ text-indent: 24px;
+ widows: 2;
+ orphans: 2;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 1px 0px 1px;
+}
+.rvps29
+{
+ text-align: center;
+ text-indent: 24px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps30
+{
+ text-align: center;
+ text-indent: 47px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+/* ========== Lists ========== */
+.list0 {text-indent: 0px; padding: 0; margin: 0 0 0 47px; list-style-position: outside;}
+.list1 {text-indent: 0px; padding: 0; margin: 0 0 0 96px; list-style-position: outside; list-style-type: circle;}
+.list2 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: square;}
+.list3 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: disc;}
+.list4 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: circle;}
+.list5 {text-indent: -49px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
+.list6 {text-indent: 0px; padding: 0; margin: 0 0 0 -71px; list-style-position: outside; list-style-type: circle;}
+</css>
+    </chapter_10>
+    <chapter_11 number="11" guid="0000FCE0DD7E41B9B43CDCE06E0513C5">
+      <guid>0000FCE0DD7E41B9B43CDCE06E0513C5</guid>
+      <title>Глава 7</title>
+      <index>824642917</index>
+      <level>2</level>
+      <number>11</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1099; &#1080; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1090;&#1099; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; &#1080; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+        
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_11>
+  </chapters>
+</sunravbook>

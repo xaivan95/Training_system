@@ -1,0 +1,33 @@
+.Menu {
+    background-color: white;
+    font-family: 'Verdana', 'Geneva', sans-serif;
+    font-size: 13px;
+    color: #002a80;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.MenuItem, .MenuItemSelected, .MenuItemActive, .MenuItemHover, A:link, A:visited {
+    text-decoration: none;
+    color: #0033CC;
+    cursor: pointer;
+}
+
+.MenuItemSelected {
+    font-weight: bold;
+}
+
+.MenuItemHover, A:hover {
+    text-decoration: underline;
+}
+
+.SubMenu {
+    display: none;
+    text-decoration: none;
+}
+
+.SelBook
+{
+    font-size: medium;
+    font-family: 'Verdana', 'Geneva', sans-serif;
+}

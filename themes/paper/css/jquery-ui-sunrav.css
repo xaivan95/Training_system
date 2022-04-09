@@ -1,0 +1,22 @@
+#orderedList, #listLeft, #listRight, #basketLeft, #basketRight {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    min-height: 50px;
+}
+
+#basketLeft li, #basketRight li, #listLeft li, #listRight li, #orderedList li{
+    margin: 6px 1px 3px 1px;
+    padding: 0.3em 0.1em 0.2em 0.5em;
+    /*padding: 8px 5px 6px 8px;*/
+    cursor: move;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+    border: 1px solid #d3d3d3;
+    background: #e6e6e6 url("../img/ui-bg_glass_75_e6e6e6_1x400.png") 50% 50% repeat-x;
+    font-weight: normal;
+    color: #555555;
+}

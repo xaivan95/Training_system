@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sunravbook>
+  <info>
+    <guid>000102B1B215446AA54A480C92A8478D</guid>
+    <engine_version>5,07</engine_version>
+    <title>Книга 000</title>
+    <theme/>
+    <mediastorage>0001024B0CB54DA8B984E54502981878</mediastorage>
+    <charset>UTF-8</charset>
+    <description></description>
+    <html_header></html_header>
+    <html_footer></html_footer>
+    <header>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</header>
+    <footer>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</footer>
+    <contents>[{"id":"728688978","parent":"#","text":"Глава 1", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=728688978"},type:"file"},{"id":"1977249552","parent":"#","text":"Новый текстовый документ", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1977249552"},type:"file"}]  <width>250</width>
+      <width_measure></width_measure>
+      <responsive>T</responsive>
+      <show_search>T</show_search>
+      <show_dots>T</show_dots>
+      <show_icons>T</show_icons>
+      <show_stripes>F</show_stripes>
+      <show_toc>T</show_toc>
+    </contents>
+    <css></css>
+  </info>
+  <chapters>
+    <count>2</count>
+    <maxlevel>0</maxlevel>
+    <maxchilds>0</maxchilds>
+    <chapter_0 number="0" guid="0001024B0CEB40C59FC929C31481EA79">
+      <guid>0001024B0CEB40C59FC929C31481EA79</guid>
+      <title>Глава 1</title>
+      <index>728688978</index>
+      <level>0</level>
+      <number>0</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1096;&#1096;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <p><img width=1542 height=359 alt="" style="vertical-align: middle; padding : 1px;" src="media/0001024B0CB54DA8B984E54502981878/Nagrady%20VUNC.png"></p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 10pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 10pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 0px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_0>
+    <chapter_1 number="1" guid="000102984E384CE58A615819A701960B">
+      <guid>000102984E384CE58A615819A701960B</guid>
+      <title>Новый текстовый документ</title>
+      <index>1977249552</index>
+      <level>0</level>
+      <number>1</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"><p style="text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><span style="font-size: 10pt; font-family: 'Arial', 'Helvetica', sans-serif; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; text-decoration: none;">&#1096;&#1096;</span></p>
+</div>
+<hr>
+<div id='book_content'>
+      <p><br></p>
+<p>&nbsp;&lt;nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="container"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"&gt;Kaf54KAOS&lt;/a&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; aria-expanded="false" aria-label="Toggle navigation"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;span class="navbar-toggler-icon"&gt;&lt;/span&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/button&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div class="navbar-collapse collapse d-sm-inline-flex justify-content-between"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;ul class="navbar-nav flex-grow-1"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li class="nav-item"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index"&gt;Home&lt;/a&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;li class="nav-item"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy"&gt;Privacy&lt;/a&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/li&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; @if (User.Identity.IsAuthenticated)</p>
+<p>{</p>
+<p>&lt;li class="nav-item"&gt;</p>
+<p>&lt;a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout"&gt;Logout ( @User.Identity.Name )&lt;/a&gt;</p>
+<p>&lt;/li&gt;</p>
+<p>}</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/ul&gt;</p>
+<p><br></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &lt;/nav&gt;</p>
+  
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 10pt;
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* HTML */
+{
+ font-size: 10pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* HTML */
+{
+ text-align: left;
+ text-indent: 0px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_1>
+  </chapters>
+</sunravbook>

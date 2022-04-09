@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sunravbook>
+  <info>
+    <guid>000139EC5E6840B48E104C46F269F87E</guid>
+    <engine_version>5,07</engine_version>
+    <title>Книга 1</title>
+    <theme/>
+    <mediastorage>000139EC5E68487E8AD567E7C190BA4E</mediastorage>
+    <charset>UTF-8</charset>
+    <description></description>
+    <html_header></html_header>
+    <html_footer></html_footer>
+    <header>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</header>
+    <footer>&lt;p&gt;&amp;nbsp;&lt;/p&gt;</footer>
+    <contents>[{"id":"1913883044","parent":"#","text":"Глава 1", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1913883044"},type:"file"},{"id":"1183254075","parent":"#","text":"Глава 2", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=1183254075"},type:"file"},{"id":"297406252","parent":"#","text":"Глава 3", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=297406252"},type:"file"},{"id":"634994142","parent":"#","text":"Глава 4", "a_attr": {"href":"?module=view_books&amp;action=content&amp;id=634994142"},type:"file"}]  <width>250</width>
+      <width_measure></width_measure>
+      <responsive>T</responsive>
+      <show_search>T</show_search>
+      <show_dots>T</show_dots>
+      <show_icons>T</show_icons>
+      <show_stripes>F</show_stripes>
+      <show_toc>T</show_toc>
+    </contents>
+    <css>h1  
+{font-size: 40px; 
+padding-left: 10px; 
+border-left: 6px solid CornflowerBlue;}  
+h2 
+{font-size: 30px; 
+padding-left: 6px; 
+border-left: 4px solid CornflowerBlue;}  
+h3 {font-size: 24px;} 
+h4 {font-size: 20px;} 
+h5 {font-size: 16px;} 
+h6 {font-size: 14px;} 
+body {font-family: "Tahoma", sanserif; font-size: 16px; margin-left:10px;  margin-right: 10px; background-color: white;}</css>
+  </info>
+  <chapters>
+    <count>4</count>
+    <maxlevel>0</maxlevel>
+    <maxchilds>0</maxchilds>
+    <chapter_0 number="0" guid="000139EC5EB14411B8EF05C9A6B5B7D6">
+      <guid>000139EC5EB14411B8EF05C9A6B5B7D6</guid>
+      <title>Глава 1</title>
+      <index>1913883044</index>
+      <level>0</level>
+      <number>0</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"></div>
+<hr>
+<div id='book_content'>
+        
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_0>
+    <chapter_1 number="1" guid="000139EF6A18442E9CCFD9B1F1D8FB78">
+      <guid>000139EF6A18442E9CCFD9B1F1D8FB78</guid>
+      <title>Глава 2</title>
+      <index>1183254075</index>
+      <level>0</level>
+      <number>1</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"></div>
+<hr>
+<div id='book_content'>
+        
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_1>
+    <chapter_2 number="2" guid="000139EF6BE8490DACB85768880AE60C">
+      <guid>000139EF6BE8490DACB85768880AE60C</guid>
+      <title>Глава 3</title>
+      <index>297406252</index>
+      <level>0</level>
+      <number>2</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"></div>
+<hr>
+<div id='book_content'>
+        
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_2>
+    <chapter_3 number="3" guid="000139F06D8445DCAB96F9546E06616B">
+      <guid>000139F06D8445DCAB96F9546E06616B</guid>
+      <title>Глава 4</title>
+      <index>634994142</index>
+      <level>0</level>
+      <number>3</number>
+      <visible>T</visible>
+      <text>
+        <![CDATA[<div id='book_header' style="margin-top:20px;"></div>
+<hr>
+<div id='book_content'>
+        
+</div>
+<div id="book_footer"></div>]]>
+      </text>
+      <css>
+hr { color: #000000}
+span.rvts0 
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0 
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+</css>
+    </chapter_3>
+  </chapters>
+</sunravbook>

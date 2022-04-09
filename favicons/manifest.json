@@ -1,0 +1,11 @@
+{
+    "name": "КАОС 54 кафедры",
+    "short_name": "КАОС 54 кафедра",
+    "icons": [{
+        "src": "favicons/google-touch-icon.png",
+        "sizes": "512x512"
+    }],
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "fullscreen"
+}

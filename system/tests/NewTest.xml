@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Test>
+  <Info>
+    <GUID>0000F8CE8550457EBA6CCB3054DBAAC9</GUID>
+    <MediaStorage>0000F8CE8550457EBA6CCB3054DBAAC9</MediaStorage>
+    <EngineVersion>7,21</EngineVersion>
+    <TestVersion>1.0</TestVersion>
+    <TestDate>2022-04-04</TestDate>
+    <PswView></PswView>
+    <Title>Тест 1</Title>
+    <Author></Author>
+    <TestType>0</TestType>
+    <RandomizeQuestions>False</RandomizeQuestions>
+    <RandomizeAnswers>False</RandomizeAnswers>
+    <QuestionsOrder>0</QuestionsOrder>
+    <AssessmentType>0</AssessmentType>
+    <Adaptive>False</Adaptive>
+    <Description></Description>
+    <CSS>
+hr { color: #000000}
+span.rvts0
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #0000ff;
+ text-decoration: none;
+}
+span.rvts2
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000080;
+ text-decoration: none;
+}
+span.rvts3
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: italic;
+ font-weight: normal;
+ color: #800000;
+ text-decoration: none;
+}
+a.rvts4, span.rvts4
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #008000;
+ text-decoration: underline;
+}
+span.rvts5
+{
+ font-size: 11pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts6
+{
+ font-size: 11pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000080;
+ text-decoration: none;
+}
+span.rvts7
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts8
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts9
+{
+ font-size: 10pt;
+ font-family: 'Courier New', 'Courier', monospace;
+ font-style: normal;
+ font-weight: normal;
+ color: #6d6d6d;
+ text-decoration: none;
+}
+span.rvts10
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+
+.rvps0
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1
+{
+ text-align: center;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps2
+{
+ text-align: left;
+ text-indent: 0px;
+ line-height: 1.07;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 11px 0px;
+}
+.rvps3
+{
+ text-align: left;
+ text-indent: 0px;
+ line-height: 1.20;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps4
+{
+ text-align: center;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps5
+{
+ text-align: left;
+ text-indent: 0px;
+ line-height: 1.07;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 11px 0px;
+}
+.rvps6
+{
+ text-align: left;
+ text-indent: 0px;
+ line-height: 1.07;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 11px 0px;
+}
+</CSS>
+    <HtmlHeader>
+      <![CDATA[]]>
+    </HtmlHeader>
+    <HtmlFooter>
+      <![CDATA[]]>
+    </HtmlFooter>
+  </Info>
+  <Limitations>
+    <TimeLimited>False</TimeLimited>
+    <TimeLimit>00:00:00</TimeLimit>
+    <DateLimited>False</DateLimited>
+    <DateLimitFrom>2022-04-04</DateLimitFrom>
+    <DateLimitTo>2022-04-04</DateLimitTo>
+    <LimitMaxCount>False</LimitMaxCount>
+    <MaxCount>0</MaxCount>
+    <MaxSum>0</MaxSum>
+  </Limitations>
+  <Testing>
+    <MayBack>True</MayBack>
+    <MaySkipQuestion>False</MaySkipQuestion>
+    <AllowNotAnswerQuestion>False</AllowNotAnswerQuestion>
+    <ShowAnswersLog>False</ShowAnswersLog>
+  </Testing>
+  <Status>
+    <QuestionsCount>True</QuestionsCount>
+    <CurrentQuestionNumber>True</CurrentQuestionNumber>
+    <RightAnswersCount>False</RightAnswersCount>
+    <PercentOfRightAnswers>False</PercentOfRightAnswers>
+    <TestingTime>True</TestingTime>
+    <MaxTestingTime>True</MaxTestingTime>
+    <TestGUID>False</TestGUID>
+    <TestVersion>False</TestVersion>
+  </Status>
+  <QuestionRespond>
+    <NextAfterRightAnswerOnly>False</NextAfterRightAnswerOnly>
+    <OnRight>False</OnRight>
+    <OnWrong>False</OnWrong>
+    <TextOfRightMessage>Верный ответ</TextOfRightMessage>
+    <TextOfWrongMessage>Неверный ответ</TextOfWrongMessage>
+    <ShowExplanation>False</ShowExplanation>
+    <ShowReference>False</ShowReference>
+  </QuestionRespond>
+  <TestRespond>
+    <ShowResultsMessage>True</ShowResultsMessage>
+    <ShowScores>True</ShowScores>
+  </TestRespond>
+  <Comments>
+    <Count>0</Count>
+  </Comments>
+  <Themes>
+    <Count>1</Count>
+    <Theme_0 Number="0">
+      <ID>0000F8CE857D4EF5A42643E4B50B9F43</ID>
+      <Title>Тема 1</Title>
+      <Number>0</Number>
+      <RandomQuestionsCount>0</RandomQuestionsCount>
+      <ShowInResults>True</ShowInResults>
+      <Assessments>
+        <Count>0</Count>
+      </Assessments>
+    </Theme_0>
+  </Themes>
+  <Assessments>
+    <Count>0</Count>
+  </Assessments>
+  <Questions>
+    <Count>3</Count>
+    <Question_0 Number="0" ID="0000F8CE857D4C4498CD61139CF6EB9D">
+      <ID>0000F8CE857D4C4498CD61139CF6EB9D</ID>
+      <ThemeID>0000F8CE857D4EF5A42643E4B50B9F43</ThemeID>
+      <ThemeNumber>0</ThemeNumber>
+      <CommentID></CommentID>
+      <Number>0</Number>
+      <Score>1</Score>
+      <Mode>0</Mode>
+      <SequenceAssessType>0</SequenceAssessType>
+      <PartiallyRightAnswer>False</PartiallyRightAnswer>
+      <Glued>False</Glued>
+      <TimeLimited>False</TimeLimited>
+      <TimeLimit>00:00:00</TimeLimit>
+      <Reference></Reference>
+      <ReferenceParams></ReferenceParams>
+      <AttachedFileName></AttachedFileName>
+      <VoiceRecord>False</VoiceRecord>
+      <VoiceRecordLimited>False</VoiceRecordLimited>
+      <VoiceRecordMaxTime>00:00:00</VoiceRecordMaxTime>
+      <ShowBasket1>False</ShowBasket1>
+      <ShowBasket2>False</ShowBasket2>
+      <TextHTML>
+        <![CDATA[<p class=rvps5><span class=rvts8>Отметьте факторы усложнения радиоэлектронной обстановки</span></p>
+]]>
+      </TextHTML>
+      <Explanation>
+        <![CDATA[<p class=rvps2><span class=rvts8><br></span></p>
+]]>
+      </Explanation>
+      <Fields>
+        <Count>0</Count>
+      </Fields>
+      <AnswerOptions>
+        <Count>4</Count>
+        <Option_0 Number="0">
+          <ID>0000F98288B64249AB9C421D5002CE79</ID>
+          <Score>0</Score>
+          <Right>False</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>уменьшение &nbsp;числа штатных телевизионных и &nbsp;радиовещательных передатчиков, снижение &nbsp; интенсификация их использования;</span></p>
+]]>
+          </TextHTML>
+        </Option_0>
+        <Option_1 Number="1">
+          <ID>0000F9BA78F64066919E81568E6123E0</ID>
+          <Score>0</Score>
+          <Right>True</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>перегрузка некоторых участков радиодиапазона (например, под­диапазонов 40, 100, 400, 800 и 2450 МГц), возникающая по ряду обстоятельств, таких, как наилучшие условия распространения ра­диоволн, отсутствие необходимости лицензирования и т.п.;</span></p>
+]]>
+          </TextHTML>
+        </Option_1>
+        <Option_2 Number="2">
+          <ID>0000F9C8AF98482CA3E4368727627195</ID>
+          <Score>0</Score>
+          <Right>False</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>постоянное повышение верхней границы рабочего диапазона РЭС (в настоящее время до 3 ГГц), связанно с бурным раз­витием современных технологий;</span></p>
+]]>
+          </TextHTML>
+        </Option_2>
+        <Option_3 Number="3">
+          <ID>0000F9CAB4E7443D893997642AE4A35C</ID>
+          <Score>0</Score>
+          <Right>False</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>общая тенденция снижения мощности передатчиков РЭС, про­диктованная стремлением к увеличению их дальности действия, что эквивалентно увеличению числа РЭС, действующих в точке распо­ложения приемника аппаратуры АРМ, и приводящая к повышению уровня непреднамеренных помех как на основной частоте, так и на &nbsp;гармониках.</span></p>
+]]>
+          </TextHTML>
+        </Option_3>
+      </AnswerOptions>
+      <OpenAnswerOptions>
+        <Count>0</Count>
+      </OpenAnswerOptions>
+      <OrderedList>
+        <Options>
+          <Count>0</Count>
+        </Options>
+        <Sequences>
+          <Count>0</Count>
+        </Sequences>
+      </OrderedList>
+      <MatchedList1>
+        <Count>0</Count>
+        <Caption></Caption>
+      </MatchedList1>
+      <MatchedList2>
+        <Count>0</Count>
+        <Caption></Caption>
+      </MatchedList2>
+    </Question_0>
+    <Question_1 Number="1" ID="0000F999DEE44E2BAFE5391F41890726">
+      <ID>0000F999DEE44E2BAFE5391F41890726</ID>
+      <ThemeID>0000F8CE857D4EF5A42643E4B50B9F43</ThemeID>
+      <ThemeNumber>0</ThemeNumber>
+      <CommentID></CommentID>
+      <Number>1</Number>
+      <Score>1</Score>
+      <Mode>0</Mode>
+      <SequenceAssessType>0</SequenceAssessType>
+      <PartiallyRightAnswer>False</PartiallyRightAnswer>
+      <Glued>False</Glued>
+      <TimeLimited>False</TimeLimited>
+      <TimeLimit>00:00:00</TimeLimit>
+      <Reference></Reference>
+      <ReferenceParams></ReferenceParams>
+      <AttachedFileName></AttachedFileName>
+      <VoiceRecord>False</VoiceRecord>
+      <VoiceRecordLimited>False</VoiceRecordLimited>
+      <VoiceRecordMaxTime>00:00:00</VoiceRecordMaxTime>
+      <ShowBasket1>False</ShowBasket1>
+      <ShowBasket2>False</ShowBasket2>
+      <TextHTML>
+        <![CDATA[<p class=rvps5><span class=rvts8>Комплексы и средства защиты информации и контроля предназначены для:</span></p>
+]]>
+      </TextHTML>
+      <Explanation>
+        <![CDATA[]]>
+      </Explanation>
+      <Fields>
+        <Count>0</Count>
+      </Fields>
+      <AnswerOptions>
+        <Count>4</Count>
+        <Option_0 Number="0">
+          <ID>0000F9F46E3F42C8B6C92FC26ECA65F0</ID>
+          <Score>0</Score>
+          <Right>True</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>постоянного или периодического контроля загрузки эфира в широком диапазоне частот;</span></p>
+]]>
+          </TextHTML>
+        </Option_0>
+        <Option_1 Number="1">
+          <ID>0000F9F572C84CAA91FBA5E79055B5C2</ID>
+          <Score>0</Score>
+          <Right>False</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>защиты информации от незаконного использования и изменения;</span></p>
+]]>
+          </TextHTML>
+        </Option_1>
+        <Option_2 Number="2">
+          <ID>0000F9F574FC4F2DB995A430C76C2948</ID>
+          <Score>0</Score>
+          <Right>False</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>защиты информации от разрушающих программных воздействий;</span></p>
+<p class=rvps5><span class=rvts10><br></span></p>
+]]>
+          </TextHTML>
+        </Option_2>
+        <Option_3 Number="3">
+          <ID>0000F9F6764C436D8091036096624931</ID>
+          <Score>0</Score>
+          <Right>False</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>защиты информации от несанкционированного доступа в вычислительных сетях различного назначения.</span></p>
+]]>
+          </TextHTML>
+        </Option_3>
+      </AnswerOptions>
+      <OpenAnswerOptions>
+        <Count>0</Count>
+      </OpenAnswerOptions>
+      <OrderedList>
+        <Options>
+          <Count>0</Count>
+        </Options>
+        <Sequences>
+          <Count>0</Count>
+        </Sequences>
+      </OrderedList>
+      <MatchedList1>
+        <Count>0</Count>
+        <Caption></Caption>
+      </MatchedList1>
+      <MatchedList2>
+        <Count>0</Count>
+        <Caption></Caption>
+      </MatchedList2>
+    </Question_1>
+    <Question_2 Number="2" ID="0000FA1D252C43D0A5304DD3DF046312">
+      <ID>0000FA1D252C43D0A5304DD3DF046312</ID>
+      <ThemeID>0000F8CE857D4EF5A42643E4B50B9F43</ThemeID>
+      <ThemeNumber>0</ThemeNumber>
+      <CommentID></CommentID>
+      <Number>2</Number>
+      <Score>1</Score>
+      <Mode>0</Mode>
+      <SequenceAssessType>0</SequenceAssessType>
+      <PartiallyRightAnswer>False</PartiallyRightAnswer>
+      <Glued>False</Glued>
+      <TimeLimited>False</TimeLimited>
+      <TimeLimit>00:00:00</TimeLimit>
+      <Reference></Reference>
+      <ReferenceParams></ReferenceParams>
+      <AttachedFileName></AttachedFileName>
+      <VoiceRecord>False</VoiceRecord>
+      <VoiceRecordLimited>False</VoiceRecordLimited>
+      <VoiceRecordMaxTime>00:00:00</VoiceRecordMaxTime>
+      <ShowBasket1>False</ShowBasket1>
+      <ShowBasket2>False</ShowBasket2>
+      <TextHTML>
+        <![CDATA[<p class=rvps5><span class=rvts8>Под радиоконтролем понимается:</span></p>
+]]>
+      </TextHTML>
+      <Explanation>
+        <![CDATA[]]>
+      </Explanation>
+      <Fields>
+        <Count>0</Count>
+      </Fields>
+      <AnswerOptions>
+        <Count>4</Count>
+        <Option_0 Number="0">
+          <ID>0000FA2C614C454B8F291CAC93D37CA1</ID>
+          <Score>0</Score>
+          <Right>True</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps6><span class=rvts10>контроль за работой РЭС с целью выявления и устранения нарушений мер противодействия радиоразведке и &nbsp;демаскирующих признаков в организации радиосвязи;</span></p>
+]]>
+          </TextHTML>
+        </Option_0>
+        <Option_1 Number="1">
+          <ID>0000FA3173E14F37B38CE3EE4C5D385C</ID>
+          <Score>0</Score>
+          <Right>False</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>проверка правил ведения радиообмена;</span></p>
+]]>
+          </TextHTML>
+        </Option_1>
+        <Option_2 Number="2">
+          <ID>0000FA3275A54B4F96F06B96E2777BBC</ID>
+          <Score>0</Score>
+          <Right>False</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>контроль за выполнением организационных и технических мероприятий ПД ТР;</span></p>
+]]>
+          </TextHTML>
+        </Option_2>
+        <Option_3 Number="3">
+          <ID>0000FA3277404C3A94A88E63962EB1D7</ID>
+          <Score>0</Score>
+          <Right>False</Right>
+          <NextQuestion>0</NextQuestion>
+          <OptionType>0</OptionType>
+          <TextHTML>
+            <![CDATA[<p class=rvps5><span class=rvts10>контроль за обеспечением ЭМС.</span></p>
+]]>
+          </TextHTML>
+        </Option_3>
+      </AnswerOptions>
+      <OpenAnswerOptions>
+        <Count>0</Count>
+      </OpenAnswerOptions>
+      <OrderedList>
+        <Options>
+          <Count>0</Count>
+        </Options>
+        <Sequences>
+          <Count>0</Count>
+        </Sequences>
+      </OrderedList>
+      <MatchedList1>
+        <Count>0</Count>
+        <Caption></Caption>
+      </MatchedList1>
+      <MatchedList2>
+        <Count>0</Count>
+        <Caption></Caption>
+      </MatchedList2>
+    </Question_2>
+  </Questions>
+</Test>
